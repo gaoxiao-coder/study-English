@@ -1,0 +1,4600 @@
+{
+  "初中词汇": [
+    {
+      "word": "a(an)",
+      "phonetic": "/ə, eɪ(ən)/",
+      "meaning": "一（个、件……）",
+      "example": "A bird is singing in the tree. 一只鸟正在树上唱歌。"
+    },
+    {
+      "word": "ability",
+      "phonetic": "/əˈbɪlɪtɪ/",
+      "meaning": "能力；才能",
+      "example": "She has the ability to solve difficult problems. 她有能力解决难题。"
+    },
+    {
+      "word": "able",
+      "phonetic": "/ˈeɪb(ə)l/",
+      "meaning": "能够；有能力的",
+      "example": "He is able to finish the work on time. 他能按时完成这项工作。"
+    },
+    {
+      "word": "about",
+      "phonetic": "/əˈbaʊt/",
+      "meaning": "大约；到处；四处；关于；在各处；四处",
+      "example": "It's about 3 o'clock now. 现在大约3点钟了。"
+    },
+    {
+      "word": "above",
+      "phonetic": "/əˈbʌv/",
+      "meaning": "在……上面",
+      "example": "The bird is flying above the clouds. 鸟儿在云层上方飞翔。"
+    },
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meaning": "到（在）国外",
+      "example": "He went abroad to study last year. 他去年出国深造了。"
+    },
+    {
+      "word": "absent",
+      "phonetic": "/ˈæbsənt/",
+      "meaning": "缺席；不在",
+      "example": "He was absent from class yesterday. 他昨天没来上课。"
+    },
+    {
+      "word": "accent",
+      "phonetic": "/ˈæksənt/",
+      "meaning": "口音；音调",
+      "example": "She speaks English with a Chinese accent. 她说英语带有中国口音。"
+    },
+    {
+      "word": "accept",
+      "phonetic": "/əkˈsept/",
+      "meaning": "接受",
+      "example": "He accepted my invitation happily. 他高兴地接受了我的邀请。"
+    },
+    {
+      "word": "accident",
+      "phonetic": "/ˈæksɪdənt/",
+      "meaning": "事故，意外的事",
+      "example": "There was a car accident on the road. 路上发生了一起车祸。"
+    },
+    {
+      "word": "ache",
+      "phonetic": "/eɪk/",
+      "meaning": "痛；疼痛",
+      "example": "I have a headache today. 我今天头疼。"
+    },
+    {
+      "word": "achieve",
+      "phonetic": "/əˈtʃiːv/",
+      "meaning": "达到；取得",
+      "example": "She achieved excellent grades in the exam. 她在考试中取得了优异的成绩。"
+    },
+    {
+      "word": "across",
+      "phonetic": "/əˈkrɔs/",
+      "meaning": "横过；穿过",
+      "example": "They walked across the street. 他们穿过了马路。"
+    },
+    {
+      "word": "act",
+      "phonetic": "/ækt/",
+      "meaning": "法令；条例；表演，扮演（角色）；演出，行动",
+      "example": "He acted in a play last night. 他昨晚参演了一出话剧。"
+    },
+    {
+      "word": "action",
+      "phonetic": "/ˈækʃ(ə)n/",
+      "meaning": "行动",
+      "example": "Actions speak louder than words. 行动胜于言语。"
+    },
+    {
+      "word": "active",
+      "phonetic": "/ˈæktɪv/",
+      "meaning": "积极的，主动的",
+      "example": "He is very active in class discussions. 他在课堂讨论中非常积极。"
+    },
+    {
+      "word": "activity",
+      "phonetic": "/ækˈtɪvɪtɪ/",
+      "meaning": "活动",
+      "example": "We have many after-school activities. 我们有很多课外活动。"
+    },
+    {
+      "word": "add",
+      "phonetic": "/æd/",
+      "meaning": "增添；增加",
+      "example": "Add some sugar to the coffee. 给咖啡加点糖。"
+    },
+    {
+      "word": "address",
+      "phonetic": "/əˈdres/",
+      "meaning": "地址",
+      "example": "Please write down your home address. 请写下你的家庭住址。"
+    },
+    {
+      "word": "advantage",
+      "phonetic": "/ədˈvɑːntɪdʒ/",
+      "meaning": "优点；好处",
+      "example": "The advantage of this method is its simplicity. 这种方法的优点是简单。"
+    },
+    {
+      "word": "advertisement",
+      "phonetic": "/ədˈvɜːtɪsmənt/",
+      "meaning": "广告",
+      "example": "I saw an advertisement for a new phone. 我看到了一则新手机的广告。"
+    },
+    {
+      "word": "advice",
+      "phonetic": "/ədˈvaɪs/",
+      "meaning": "忠告；劝告；建议",
+      "example": "Can you give me some advice on learning English? 你能给我一些学英语的建议吗？"
+    },
+    {
+      "word": "advise",
+      "phonetic": "/ədˈvaɪz/",
+      "meaning": "忠告；劝告；建议",
+      "example": "The teacher advised us to read more books. 老师建议我们多读书。"
+    },
+    {
+      "word": "afford",
+      "phonetic": "/əˈfɔːd/",
+      "meaning": "负担的起（……的费用）；抽的出（时间）；提供",
+      "example": "I can't afford to buy a new car. 我买不起新车。"
+    },
+    {
+      "word": "afraid",
+      "phonetic": "/əˈfreɪd/",
+      "meaning": "害怕的；担心的",
+      "example": "She is afraid of dogs. 她害怕狗。"
+    },
+    {
+      "word": "after",
+      "phonetic": "/ˈɑːftə(r)/",
+      "meaning": "在后；后来；在……之后；在……后面；在……以后",
+      "example": "I will call you after dinner. 我晚饭后给你打电话。"
+    },
+    {
+      "word": "afternoon",
+      "phonetic": "/ɑːftəˈnuːn/",
+      "meaning": "下午，午后",
+      "example": "We will have a meeting this afternoon. 我们今天下午有个会议。"
+    },
+    {
+      "word": "again",
+      "phonetic": "/əˈɡeɪn/",
+      "meaning": "再一次；再，又",
+      "example": "Please read the text again. 请再读一遍课文。"
+    },
+    {
+      "word": "against",
+      "phonetic": "/əˈɡeɪnst/",
+      "meaning": "对着，反对",
+      "example": "Most people are against this plan. 大多数人反对这个计划。"
+    },
+    {
+      "word": "age",
+      "phonetic": "/eɪdʒ/",
+      "meaning": "年龄；时代",
+      "example": "What's your age? 你多大年纪了？"
+    },
+    {
+      "word": "ago",
+      "phonetic": "/əˈɡəʊ/",
+      "meaning": "以前",
+      "example": "He left here three days ago. 他三天前离开了这里。"
+    },
+    {
+      "word": "agree",
+      "phonetic": "/əˈɡriː/",
+      "meaning": "同意；应允",
+      "example": "I agree with you. 我同意你的观点。"
+    },
+    {
+      "word": "agreement",
+      "phonetic": "/əˈɡriːmənt/",
+      "meaning": "同意；一致；协定",
+      "example": "We reached an agreement finally. 我们最终达成了协议。"
+    },
+    {
+      "word": "air",
+      "phonetic": "/eə(r)/",
+      "meaning": "空气；大气",
+      "example": "The air here is very fresh. 这里的空气很清新。"
+    },
+    {
+      "word": "airline",
+      "phonetic": "/ˈeəlain/",
+      "meaning": "航空公司",
+      "example": "Which airline do you prefer? 你更喜欢哪家航空公司？"
+    },
+    {
+      "word": "airplane",
+      "phonetic": "/ˈeəpleɪn/",
+      "meaning": "(美)飞机",
+      "example": "The airplane will take off in ten minutes. 飞机十分钟后起飞。"
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meaning": "航空站，飞机场",
+      "example": "We arrived at the airport on time. 我们准时到达了机场。"
+    },
+    {
+      "word": "alive",
+      "phonetic": "/əˈlaɪv/",
+      "meaning": "活着的，存在的",
+      "example": "He is still alive after the accident. 事故后他还活着。"
+    },
+    {
+      "word": "all",
+      "phonetic": "/ɔːl/",
+      "meaning": "全部地；全(部)；所有的；总；整；全部；全体成员",
+      "example": "All students must finish the homework. 所有学生都必须完成作业。"
+    },
+    {
+      "word": "allow",
+      "phonetic": "/əˈlaʊ/",
+      "meaning": "允许，准允",
+      "example": "My parents don't allow me to stay up late. 我父母不允许我熬夜。"
+    },
+    {
+      "word": "almost",
+      "phonetic": "/ˈɔːlməʊst/",
+      "meaning": "几乎，差不多",
+      "example": "It's almost time to go. 差不多该走了。"
+    },
+    {
+      "word": "alone",
+      "phonetic": "/əˈləʊn/",
+      "meaning": "单独的，孤独的",
+      "example": "She likes to stay alone at home. 她喜欢独自待在家里。"
+    },
+    {
+      "word": "along",
+      "phonetic": "/əˈlɔŋ/",
+      "meaning": "向前；和…..在一起；一同；沿着；顺着",
+      "example": "We walked along the river. 我们沿着河边走。"
+    },
+    {
+      "word": "aloud",
+      "phonetic": "/əˈlaʊd/",
+      "meaning": "大声地",
+      "example": "Please read the story aloud. 请大声朗读这个故事。"
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredɪ/",
+      "meaning": "已经",
+      "example": "I have already finished my homework. 我已经完成作业了。"
+    },
+    {
+      "word": "also",
+      "phonetic": "/ˈɔːlsəʊ/",
+      "meaning": "也",
+      "example": "She also likes playing the piano. 她也喜欢弹钢琴。"
+    },
+    {
+      "word": "although",
+      "phonetic": "/ɔːlˈðəʊ/",
+      "meaning": "虽然；尽管",
+      "example": "Although it rained, we still went out. 尽管下雨了，我们还是出去了。"
+    },
+    {
+      "word": "always",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meaning": "总是；一直；永远",
+      "example": "He always gets up early. 他总是早起。"
+    },
+    {
+      "word": "America",
+      "phonetic": "/əˈmerɪkə/",
+      "meaning": "美国；美洲",
+      "example": "He went to America last year. 他去年去了美国。"
+    },
+    {
+      "word": "American",
+      "phonetic": "/əˈmerɪkən/",
+      "meaning": "美国人；美国人的；美国人",
+      "example": "She is an American. 她是个美国人。"
+    },
+    {
+      "word": "among",
+      "phonetic": "/əˈmʌŋ/",
+      "meaning": "在……中间；在(三个以上)之间",
+      "example": "She sat among the children. 她坐在孩子们中间。"
+    },
+    {
+      "word": "ancient",
+      "phonetic": "/ˈeɪnʃənt/",
+      "meaning": "古代的;古老的",
+      "example": "This is an ancient city. 这是一座古城。"
+    },
+    {
+      "word": "and",
+      "phonetic": "/ənd, ænd/",
+      "meaning": "和；又；而",
+      "example": "He likes reading and writing. 他喜欢阅读和写作。"
+    },
+    {
+      "word": "angry",
+      "phonetic": "/ˈænɡrɪ/",
+      "meaning": "生气的，愤怒的",
+      "example": "His father was angry with him. 他爸爸对他很生气。"
+    },
+    {
+      "word": "animal",
+      "phonetic": "/ˈænɪm(ə)l/",
+      "meaning": "动物",
+      "example": "I like small animals. 我喜欢小动物。"
+    },
+    {
+      "word": "another",
+      "phonetic": "/əˈnʌðə(r)/",
+      "meaning": "再一；另一；别的；不同的；另一个",
+      "example": "Can you give me another apple? 你能再给我一个苹果吗？"
+    },
+    {
+      "word": "answer",
+      "phonetic": "/ˈɑːnsə(r)/",
+      "meaning": "回答，答复；答案；回答，答复；回信（作出）答案",
+      "example": "Please answer my question. 请回答我的问题。"
+    },
+    {
+      "word": "Ant",
+      "phonetic": "/ænt/",
+      "meaning": "蚂蚁",
+      "example": "There is an ant on the table. 桌子上有一只蚂蚁。"
+    },
+    {
+      "word": "any",
+      "phonetic": "/ˈenɪ/",
+      "meaning": "（无论）哪一个；那些；任何的；（用于疑问句、否定句）一些；什么",
+      "example": "Do you have any questions? 你有什么问题吗？"
+    },
+    {
+      "word": "anybody",
+      "phonetic": "/ˈenɪbɔdɪ/",
+      "meaning": "任何人，无论谁",
+      "example": "Anybody can do this job. 任何人都能做这份工作。"
+    },
+    {
+      "word": "anyone",
+      "phonetic": "/ˈenɪwʌn/",
+      "meaning": "任何人，无论谁",
+      "example": "Is anyone here? 这里有人吗？"
+    },
+    {
+      "word": "anything",
+      "phonetic": "/ˈenɪθɪŋ/",
+      "meaning": "什么事（物）；任何事（物）",
+      "example": "I didn't say anything. 我什么也没说。"
+    },
+    {
+      "word": "anyway",
+      "phonetic": "/ˈenɪweɪ/",
+      "meaning": "不管怎样",
+      "example": "Anyway, we have to finish it today. 不管怎样，我们今天必须完成它。"
+    },
+    {
+      "word": "anywhere",
+      "phonetic": "/ˈenɪweə®/",
+      "meaning": "任何地方",
+      "example": "You can go anywhere you like. 你可以去任何你想去的地方。"
+    },
+    {
+      "word": "appear",
+      "phonetic": "/əˈpɪə®/",
+      "meaning": "出现",
+      "example": "A rainbow appeared in the sky. 天空中出现了一道彩虹。"
+    },
+    {
+      "word": "apple",
+      "phonetic": "/ˈæp(ə)l/",
+      "meaning": "苹果",
+      "example": "I eat an apple every day. 我每天吃一个苹果。"
+    },
+    {
+      "word": "April",
+      "phonetic": "/ˈeɪpr(ə)l/",
+      "meaning": "四月",
+      "example": "April is the fourth month of the year. 四月是一年的第四个月。"
+    },
+    {
+      "word": "area",
+      "phonetic": "/ˈeərɪə/",
+      "meaning": "面积；地域；区域；范围；领域",
+      "example": "This is a residential area. 这是一个住宅区。"
+    },
+    {
+      "word": "arm",
+      "phonetic": "/ɑːm/",
+      "meaning": "臂，支架",
+      "example": "He has a strong arm. 他有强壮的手臂。"
+    },
+    {
+      "word": "army",
+      "phonetic": "/ˈɑːmɪ/",
+      "meaning": "军队",
+      "example": "He joined the army last year. 他去年参军了。"
+    },
+    {
+      "word": "around",
+      "phonetic": "/əˈraʊnd/",
+      "meaning": "在周围；在附近；在……周围；大约",
+      "example": "There are many trees around the house. 房子周围有很多树。"
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meaning": "到达；达到",
+      "example": "We will arrive at the station at 5 pm. 我们下午5点到达车站。"
+    },
+    {
+      "word": "art",
+      "phonetic": "/ɑːt/",
+      "meaning": "艺术，美术；技艺",
+      "example": "She is good at art. 她擅长美术。"
+    },
+    {
+      "word": "article",
+      "phonetic": "/ˈɑːtɪk(ə)l/",
+      "meaning": "文章；东西；冠词",
+      "example": "I read an interesting article today. 我今天读了一篇有趣的文章。"
+    },
+    {
+      "word": "as",
+      "phonetic": "/əz, æz/",
+      "meaning": "像……一样；如同；因为；作为，当作",
+      "example": "He works as a teacher. 他是一名教师。"
+    },
+    {
+      "word": "Asia",
+      "phonetic": "/ˈeɪʃə/",
+      "meaning": "亚洲",
+      "example": "China is in Asia. 中国在亚洲。"
+    },
+    {
+      "word": "Asian",
+      "phonetic": "/ˈeɪʃ(ə)n, ˈeɪʒ(ə)n/",
+      "meaning": "亚洲的；亚洲人的；亚洲人",
+      "example": "She is an Asian girl. 她是一个亚洲女孩。"
+    },
+    {
+      "word": "ask",
+      "phonetic": "/ɑːsk/",
+      "meaning": "问,询问；请求，要求；邀请",
+      "example": "May I ask you a question? 我可以问你一个问题吗？"
+    },
+    {
+      "word": "Asleep",
+      "phonetic": "/əˈsliːp/",
+      "meaning": "睡着的，熟睡",
+      "example": "The baby is asleep now. 宝宝现在睡着了。"
+    },
+    {
+      "word": "at",
+      "phonetic": "/æt/",
+      "meaning": "在（几点钟）；在（某处）",
+      "example": "I get up at 7 o'clock. 我7点起床。"
+    },
+    {
+      "word": "Atlantic",
+      "phonetic": "/ətˈlæntɪk/",
+      "meaning": "大西洋（的）",
+      "example": "The Atlantic Ocean is very big. 大西洋很大。"
+    },
+    {
+      "word": "attention",
+      "phonetic": "/əˈtenʃ(ə)n/",
+      "meaning": "关心；注意",
+      "example": "Please pay attention to your spelling. 请注意你的拼写。"
+    },
+    {
+      "word": "August",
+      "phonetic": "/ˈɔːɡəst/",
+      "meaning": "八月",
+      "example": "August is the hottest month in summer. 八月是夏天最热的月份。"
+    },
+    {
+      "word": "aunt",
+      "phonetic": "/ɑːnt/",
+      "meaning": "伯母；舅母；审；姑；姨",
+      "example": "My aunt is a doctor. 我姑姑是一名医生。"
+    },
+    {
+      "word": "Australia",
+      "phonetic": "/ɔˈstreɪljə/",
+      "meaning": "澳洲；澳大利亚",
+      "example": "Australia is a beautiful country. 澳大利亚是一个美丽的国家。"
+    },
+    {
+      "word": "Australian",
+      "phonetic": "/ɔˈstreɪlɪən/",
+      "meaning": "澳洲的；澳大利亚的；澳大利亚人",
+      "example": "He is an Australian. 他是澳大利亚人。"
+    },
+    {
+      "word": "autumn",
+      "phonetic": "/ˈɔːtəm/",
+      "meaning": "秋天，秋季",
+      "example": "Autumn is my favorite season. 秋天是我最喜欢的季节。"
+    },
+    {
+      "word": "available",
+      "phonetic": "/əˈveɪləbl/",
+      "meaning": "有用的；有效的",
+      "example": "Is this seat available? 这个座位有人吗？"
+    },
+    {
+      "word": "Avoid",
+      "phonetic": "/əˈvɔɪd/",
+      "meaning": "避免；躲开；逃避",
+      "example": "You should avoid making mistakes. 你应该避免犯错。"
+    },
+    {
+      "word": "awake",
+      "phonetic": "/əˈweɪk/",
+      "meaning": "唤醒；醒着的",
+      "example": "I was awake all night. 我整晚都醒着。"
+    },
+    {
+      "word": "away",
+      "phonetic": "/əˈweɪ/",
+      "meaning": "离开；原离",
+      "example": "He went away yesterday. 他昨天离开了。"
+    },
+    {
+      "word": "baby",
+      "phonetic": "/ˈbeɪbɪ/",
+      "meaning": "婴儿",
+      "example": "The baby is very cute. 这个宝宝很可爱。"
+    },
+    {
+      "word": "back",
+      "phonetic": "/bæk/",
+      "meaning": "回（原处）；向后；后面的；背后；后部；背",
+      "example": "Please come back soon. 请早点回来。"
+    },
+    {
+      "word": "background",
+      "phonetic": "/ˈbækɡraʊnd/",
+      "meaning": "背景",
+      "example": "What's his family background? 他的家庭背景是什么？"
+    },
+    {
+      "word": "bad",
+      "phonetic": "/bæd/",
+      "meaning": "坏的；有害的；不利的；严重的",
+      "example": "Smoking is bad for your health. 吸烟有害健康。"
+    },
+    {
+      "word": "bag",
+      "phonetic": "",
+      "meaning": "",
+      "example": ""
+    },
+    {
+      "word": "cartoon",
+      "phonetic": "/kɑːˈtuːn/",
+      "meaning": "卡通；动画片",
+      "example": "I like watching cartoon movies. 我喜欢看卡通电影。"
+    },
+    {
+      "word": "case",
+      "phonetic": "/keɪs/",
+      "meaning": "情况；病例；案例；箱；盒",
+      "example": "This is a typical case. 这是一个典型的案例。"
+    },
+    {
+      "word": "cat",
+      "phonetic": "/kæt/",
+      "meaning": "猫",
+      "example": "The cat is sleeping on the sofa. 猫咪正在沙发上睡觉。"
+    },
+    {
+      "word": "catch",
+      "phonetic": "/kætʃ/",
+      "meaning": "接住；捉住；赶上；染上（疾病）",
+      "example": "He can catch the ball easily. 他能轻松接住球。"
+    },
+    {
+      "word": "cause",
+      "phonetic": "/kɔːz/",
+      "meaning": "原因，起因；促使，引起，使发生",
+      "example": "What caused the fire? 是什么引起了这场火灾？"
+    },
+    {
+      "word": "CD",
+      "phonetic": "/ˌsiːˈdiː/",
+      "meaning": "光盘；激光唱片",
+      "example": "I have a CD of English songs. 我有一张英文歌曲的光盘。"
+    },
+    {
+      "word": "cell",
+      "phonetic": "/sel/",
+      "meaning": "细胞；小房间；电池",
+      "example": "Human body is made up of cells. 人体是由细胞构成的。"
+    },
+    {
+      "word": "cent",
+      "phonetic": "/sent/",
+      "meaning": "美分（1美元=100美分）；分",
+      "example": "This pencil costs 50 cents. 这支铅笔50美分。"
+    },
+    {
+      "word": "center/centre",
+      "phonetic": "/ˈsentə(r)/",
+      "meaning": "中心，中央",
+      "example": "The park is in the center of the city. 公园在市中心。"
+    },
+    {
+      "word": "century",
+      "phonetic": "/ˈsentʃəri/",
+      "meaning": "世纪，百年",
+      "example": "We are living in the 21st century. 我们生活在21世纪。"
+    },
+    {
+      "word": "certain",
+      "phonetic": "/ˈsɜːtn/",
+      "meaning": "（未指明真实名称的）某……；确定的，无疑的；一定会……",
+      "example": "I am certain that he will come. 我确定他会来。"
+    },
+    {
+      "word": "certainly",
+      "phonetic": "/ˈsɜːtnli/",
+      "meaning": "当然；无疑；确定地",
+      "example": "Certainly, I can help you. 当然，我可以帮你。"
+    },
+    {
+      "word": "chair",
+      "phonetic": "/tʃeə(r)/",
+      "meaning": "椅子",
+      "example": "Please sit on the chair. 请坐在椅子上。"
+    },
+    {
+      "word": "chairman",
+      "phonetic": "/ˈtʃeəmən/",
+      "meaning": "主席；会长；董事长",
+      "example": "He is the chairman of the company. 他是这家公司的董事长。"
+    },
+    {
+      "word": "chalk",
+      "phonetic": "/tʃɔːk/",
+      "meaning": "粉笔",
+      "example": "The teacher writes on the blackboard with chalk. 老师用粉笔在黑板上写字。"
+    },
+    {
+      "word": "chance",
+      "phonetic": "/tʃɑːns/",
+      "meaning": "机会，可能性",
+      "example": "You have a good chance to win. 你有很好的获胜机会。"
+    },
+    {
+      "word": "change",
+      "phonetic": "/tʃeɪndʒ/",
+      "meaning": "改变，变化；零钱；更换；改变",
+      "example": "Great changes have taken place in my hometown. 我的家乡发生了巨大的变化。"
+    },
+    {
+      "word": "cheap",
+      "phonetic": "/tʃiːp/",
+      "meaning": "便宜的，贱",
+      "example": "This shirt is very cheap. 这件衬衫很便宜。"
+    },
+    {
+      "word": "cheat",
+      "phonetic": "/tʃiːt/",
+      "meaning": "骗取，哄骗；作弊",
+      "example": "It's wrong to cheat in the exam. 考试作弊是不对的。"
+    },
+    {
+      "word": "check",
+      "phonetic": "/tʃek/",
+      "meaning": "检查；批改；核对；支票；账单",
+      "example": "Please check your homework carefully. 请仔细检查你的作业。"
+    },
+    {
+      "word": "cheer",
+      "phonetic": "/tʃɪə(r)/",
+      "meaning": "欢呼；喝彩",
+      "example": "The crowd cheered for the winner. 人群为获胜者欢呼。"
+    },
+    {
+      "word": "cheese",
+      "phonetic": "/tʃiːz/",
+      "meaning": "奶酪，乳酪",
+      "example": "I like to eat bread with cheese. 我喜欢吃夹奶酪的面包。"
+    },
+    {
+      "word": "chemistry",
+      "phonetic": "/ˈkemɪstri/",
+      "meaning": "化学",
+      "example": "Chemistry is my favorite subject. 化学是我最喜欢的科目。"
+    },
+    {
+      "word": "chess",
+      "phonetic": "/tʃes/",
+      "meaning": "棋",
+      "example": "We often play chess after school. 我们放学后经常下棋。"
+    },
+    {
+      "word": "chicken",
+      "phonetic": "/ˈtʃɪkɪn/",
+      "meaning": "鸡；鸡肉",
+      "example": "I had chicken for lunch. 我午饭吃了鸡肉。"
+    },
+    {
+      "word": "child",
+      "phonetic": "/tʃaɪld/",
+      "meaning": "孩子，儿童",
+      "example": "The child is drawing a picture. 这个孩子正在画画。"
+    },
+    {
+      "word": "children",
+      "phonetic": "/ˈtʃɪldrən/",
+      "meaning": "孩子们（child的复数）",
+      "example": "The children are playing in the park. 孩子们正在公园里玩。"
+    },
+    {
+      "word": "China",
+      "phonetic": "/ˈtʃaɪnə/",
+      "meaning": "中国",
+      "example": "China is a great country. 中国是一个伟大的国家。"
+    },
+    {
+      "word": "Chinese",
+      "phonetic": "/ˌtʃaɪˈniːz/",
+      "meaning": "中国的；中国人的；中国人；汉语",
+      "example": "I can speak Chinese and English. 我会说汉语和英语。"
+    },
+    {
+      "word": "chocolate",
+      "phonetic": "/ˈtʃɒklət/",
+      "meaning": "巧克力",
+      "example": "My mother bought me a box of chocolate. 妈妈给我买了一盒巧克力。"
+    },
+    {
+      "word": "choice",
+      "phonetic": "/tʃɔɪs/",
+      "meaning": "选择；抉择",
+      "example": "You have to make a choice now. 你现在必须做出选择。"
+    },
+    {
+      "word": "choose",
+      "phonetic": "/tʃuːz/",
+      "meaning": "选择；挑选",
+      "example": "Choose a book you like. 选一本你喜欢的书。"
+    },
+    {
+      "word": "chopsticks",
+      "phonetic": "/ˈtʃɒpstɪks/",
+      "meaning": "筷子",
+      "example": "Chinese people eat with chopsticks. 中国人用筷子吃饭。"
+    },
+    {
+      "word": "Christmas",
+      "phonetic": "/ˈkrɪsməs/",
+      "meaning": "圣诞节",
+      "example": "We celebrate Christmas on December 25th. 我们在12月25日庆祝圣诞节。"
+    },
+    {
+      "word": "church",
+      "phonetic": "/tʃɜːtʃ/",
+      "meaning": "教堂；教会",
+      "example": "They go to church every Sunday. 他们每周日去教堂。"
+    },
+    {
+      "word": "cinema",
+      "phonetic": "/ˈsɪnəmə/",
+      "meaning": "电影院；电影",
+      "example": "Let's go to the cinema tonight. 我们今晚去看电影吧。"
+    },
+    {
+      "word": "circle",
+      "phonetic": "/ˈsɜːkl/",
+      "meaning": "圆圈；将……圈起来",
+      "example": "Draw a circle on the paper. 在纸上画一个圆圈。"
+    },
+    {
+      "word": "city",
+      "phonetic": "/ˈsɪti/",
+      "meaning": "城市；都市",
+      "example": "Shanghai is a big city. 上海是一座大城市。"
+    },
+    {
+      "word": "clap",
+      "phonetic": "/klæp/",
+      "meaning": "拍手；鼓掌",
+      "example": "We clapped our hands for his wonderful speech. 我们为他精彩的演讲鼓掌。"
+    },
+    {
+      "word": "class",
+      "phonetic": "/klɑːs/",
+      "meaning": "（学校里的）班；年级；课；上课",
+      "example": "We have math class in the morning. 我们上午有数学课。"
+    },
+    {
+      "word": "classmate",
+      "phonetic": "/ˈklɑːsmeɪt/",
+      "meaning": "同班同学",
+      "example": "My classmate helps me with my homework. 我的同班同学帮我辅导作业。"
+    },
+    {
+      "word": "classroom",
+      "phonetic": "/ˈklɑːsruːm/",
+      "meaning": "教室",
+      "example": "Our classroom is very clean and bright. 我们的教室又干净又明亮。"
+    },
+    {
+      "word": "clean",
+      "phonetic": "/kliːn/",
+      "meaning": "清洁的，干净的；擦干净",
+      "example": "Please keep your room clean. 请保持你的房间干净。"
+    },
+    {
+      "word": "clear",
+      "phonetic": "/klɪə(r)/",
+      "meaning": "清晰的；清楚的；晴朗的；清除；清理",
+      "example": "The sky is clear today. 今天天空晴朗。"
+    },
+    {
+      "word": "clever",
+      "phonetic": "/ˈklevə(r)/",
+      "meaning": "聪明的；伶俐的",
+      "example": "He is a clever boy. 他是一个聪明的男孩。"
+    },
+    {
+      "word": "climb",
+      "phonetic": "/klaɪm/",
+      "meaning": "爬，攀登",
+      "example": "They climb the mountain every weekend. 他们每个周末都去爬山。"
+    },
+    {
+      "word": "clock",
+      "phonetic": "/klɒk/",
+      "meaning": "钟；时钟",
+      "example": "The clock on the wall is very old. 墙上的钟很旧了。"
+    },
+    {
+      "word": "close",
+      "phonetic": "/kləʊz/",
+      "meaning": "关，关闭；近的，接近的；亲密的",
+      "example": "Please close the window before you leave. 离开前请关上窗户。"
+    },
+    {
+      "word": "cloth",
+      "phonetic": "/klɒθ/",
+      "meaning": "布；布料",
+      "example": "This cloth is made of cotton. 这块布料是棉质的。"
+    },
+    {
+      "word": "clothes",
+      "phonetic": "/kləʊðz/",
+      "meaning": "衣服；各种衣物",
+      "example": "I need to wash my clothes. 我需要洗衣服了。"
+    },
+    {
+      "word": "cloud",
+      "phonetic": "/klaʊd/",
+      "meaning": "云；云层",
+      "example": "There are many white clouds in the sky. 天空中有很多白云。"
+    },
+    {
+      "word": "cloudy",
+      "phonetic": "/ˈklaʊdi/",
+      "meaning": "多云的；阴天的",
+      "example": "It's cloudy today, maybe it will rain. 今天阴天，可能会下雨。"
+    },
+    {
+      "word": "club",
+      "phonetic": "/klʌb/",
+      "meaning": "俱乐部；社团",
+      "example": "He joins the football club at school. 他加入了学校的足球俱乐部。"
+    },
+    {
+      "word": "coach",
+      "phonetic": "/kəʊtʃ/",
+      "meaning": "教练；长途汽车；指导；训练",
+      "example": "Our football coach is very strict. 我们的足球教练很严格。"
+    },
+    {
+      "word": "coal",
+      "phonetic": "/kəʊl/",
+      "meaning": "煤；煤炭",
+      "example": "Coal is an important energy source. 煤炭是一种重要的能源。"
+    },
+    {
+      "word": "coast",
+      "phonetic": "/kəʊst/",
+      "meaning": "海岸；海滨",
+      "example": "We spent our holiday on the coast. 我们在海滨度假。"
+    },
+    {
+      "word": "coat",
+      "phonetic": "/kəʊt/",
+      "meaning": "外套；外衣；涂层",
+      "example": "Put on your coat, it's cold outside. 穿上你的外套，外面冷。"
+    },
+    {
+      "word": "coffee",
+      "phonetic": "/ˈkɒfi/",
+      "meaning": "咖啡",
+      "example": "I drink a cup of coffee every morning. 我每天早上喝一杯咖啡。"
+    },
+    {
+      "word": "cold",
+      "phonetic": "/kəʊld/",
+      "meaning": "冷的，寒的；寒冷；感冒",
+      "example": "It's very cold in winter. 冬天非常冷。"
+    },
+    {
+      "word": "collect",
+      "phonetic": "/kəˈlekt/",
+      "meaning": "收集；搜集；领取",
+      "example": "He likes to collect stamps. 他喜欢集邮。"
+    },
+    {
+      "word": "college",
+      "phonetic": "/ˈkɒlɪdʒ/",
+      "meaning": "学院；专科学校",
+      "example": "He studies in a medical college. 他在一所医学院学习。"
+    },
+    {
+      "word": "colour/color",
+      "phonetic": "/ˈkʌlə(r)/",
+      "meaning": "颜色；给……着色",
+      "example": "What's your favourite colour? 你最喜欢的颜色是什么？"
+    },
+    {
+      "word": "come",
+      "phonetic": "/kʌm/",
+      "meaning": "来，来到；到达",
+      "example": "Come here, please. 请到这边来。"
+    },
+    {
+      "word": "comfortable",
+      "phonetic": "/ˈkʌmftəbl/",
+      "meaning": "舒服的；安逸的；舒服自在的",
+      "example": "This chair is very comfortable. 这把椅子坐起来很舒服。"
+    },
+    {
+      "word": "common",
+      "phonetic": "/ˈkɒmən/",
+      "meaning": "普通的；一般的；共有的",
+      "example": "This is a common mistake. 这是一个常见的错误。"
+    },
+    {
+      "word": "communicate",
+      "phonetic": "/kəˈmjuːnɪkeɪt/",
+      "meaning": "交际；传达（感情、信息等）",
+      "example": "We should communicate with our parents more. 我们应该多和父母沟通。"
+    },
+    {
+      "word": "company",
+      "phonetic": "/ˈkʌmpəni/",
+      "meaning": "公司；陪伴",
+      "example": "He works in a big company. 他在一家大公司工作。"
+    },
+    {
+      "word": "compare",
+      "phonetic": "/kəmˈpeə(r)/",
+      "meaning": "比较，对照",
+      "example": "Compare this picture with that one. 把这张图片和那张对比一下。"
+    },
+    {
+      "word": "compete",
+      "phonetic": "/kəmˈpiːt/",
+      "meaning": "比赛；竞争",
+      "example": "They compete with each other for the prize. 他们为了奖品互相竞争。"
+    },
+    {
+      "word": "complete",
+      "phonetic": "/kəmˈpliːt/",
+      "meaning": "完成；完整的，完全的",
+      "example": "I need to complete my homework before dinner. 我需要在晚饭前完成作业。"
+    },
+    {
+      "word": "computer",
+      "phonetic": "/kəmˈpjuːtə(r)/",
+      "meaning": "电脑；计算机",
+      "example": "I use a computer to study online. 我用电脑上网课。"
+    },
+    {
+      "word": "concert",
+      "phonetic": "/ˈkɒnsət/",
+      "meaning": "音乐会；演奏会",
+      "example": "We went to a pop concert last night. 我们昨晚去听了一场流行音乐会。"
+    },
+    {
+      "word": "condition",
+      "phonetic": "/kənˈdɪʃn/",
+      "meaning": "条件；状况",
+      "example": "The car is in good condition. 这辆车车况很好。"
+    },
+    {
+      "word": "conference",
+      "phonetic": "/ˈkɒnfərəns/",
+      "meaning": "（正式的）会议；讨论",
+      "example": "He attended an international conference. 他参加了一场国际会议。"
+    },
+    {
+      "word": "continue",
+      "phonetic": "/kənˈtɪnjuː/",
+      "meaning": "继续",
+      "example": "Please continue your story. 请继续讲你的故事。"
+    },
+    {
+      "word": "control",
+      "phonetic": "/kənˈtrəʊl/",
+      "meaning": "控制；支配；管理",
+      "example": "He can control his temper well. 他能很好地控制自己的脾气。"
+    },
+    {
+      "word": "conversation",
+      "phonetic": "/ˌkɒnvəˈseɪʃn/",
+      "meaning": "谈话；交谈",
+      "example": "I had a conversation with my teacher yesterday. 我昨天和老师谈了话。"
+    },
+    {
+      "word": "cook",
+      "phonetic": "/kʊk/",
+      "meaning": "厨师；烹调，煮，烧",
+      "example": "My mother can cook delicious food. 我妈妈会做美味的饭菜。"
+    },
+    {
+      "word": "cookie",
+      "phonetic": "/ˈkʊki/",
+      "meaning": "小甜饼；曲奇饼",
+      "example": "I ate three cookies this morning. 我今天早上吃了三块曲奇饼。"
+    },
+    {
+      "word": "cool",
+      "phonetic": "/kuːl/",
+      "meaning": "凉的，凉爽的；酷；冷静的",
+      "example": "The wind makes us feel cool. 风让我们感觉凉爽。"
+    },
+    {
+      "word": "copy",
+      "phonetic": "/ˈkɒpi/",
+      "meaning": "抄本，副本；一本（份、册……）；抄写；复印",
+      "example": "Please copy this text carefully. 请认真抄写这段文字。"
+    },
+    {
+      "word": "corn",
+      "phonetic": "/kɔːn/",
+      "meaning": "玉米；谷物",
+      "example": "Farmers grow corn in summer. 农民们夏天种玉米。"
+    },
+    {
+      "word": "corner",
+      "phonetic": "/ˈkɔːnə(r)/",
+      "meaning": "角；角落；拐角",
+      "example": "There is a tree at the corner of the street. 街道拐角处有一棵树。"
+    },
+    {
+      "word": "correct",
+      "phonetic": "/kəˈrekt/",
+      "meaning": "正确的，对的；改正",
+      "example": "Your answer is correct. 你的答案是对的。"
+    },
+    {
+      "word": "cost",
+      "phonetic": "/kɒst/",
+      "meaning": "价钱，费用；成本；花费（金钱、时间等）",
+      "example": "This book costs 20 yuan. 这本书20元。"
+    },
+    {
+      "word": "cough",
+      "phonetic": "/kɒf/",
+      "meaning": "咳嗽",
+      "example": "She has a bad cough. 她咳嗽得很厉害。"
+    },
+    {
+      "word": "could",
+      "phonetic": "/kʊd/",
+      "meaning": "能；可以（can的过去式）；可能",
+      "example": "I could swim when I was five. 我五岁的时候就会游泳了。"
+    },
+    {
+      "word": "count",
+      "phonetic": "/kaʊnt/",
+      "meaning": "数，点数；计算；认为",
+      "example": "Let's count the books. 我们来数一下书的数量。"
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meaning": "国家；农村，乡下",
+      "example": "China is a beautiful country. 中国是一个美丽的国家。"
+    },
+    {
+      "word": "countryside",
+      "phonetic": "/ˈkʌntrisaɪd/",
+      "meaning": "乡下；农村",
+      "example": "I like to live in the countryside. 我喜欢住在乡下。"
+    },
+    {
+      "word": "couple",
+      "phonetic": "/ˈkʌpl/",
+      "meaning": "夫妇；一对",
+      "example": "This couple has two children. 这对夫妇有两个孩子。"
+    },
+    {
+      "word": "courage",
+      "phonetic": "/ˈkʌrɪdʒ/",
+      "meaning": "勇气；胆略",
+      "example": "It takes courage to face the difficulty. 面对困难需要勇气。"
+    },
+    {
+      "word": "course",
+      "phonetic": "/kɔːs/",
+      "meaning": "过程；经过；课程",
+      "example": "I take an English course on weekends. 我周末上英语课。"
+    },
+    {
+      "word": "cousin",
+      "phonetic": "/ˈkʌzn/",
+      "meaning": "堂（表）兄弟；堂（表）姐妹",
+      "example": "My cousin is two years older than me. 我的表姐比我大两岁。"
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkʌvə(r)/",
+      "meaning": "盖子；罩；覆盖；遮盖；包括",
+      "example": "Cover the bowl with a plate. 用盘子把碗盖上。"
+    },
+    {
+      "word": "cow",
+      "phonetic": "/kaʊ/",
+      "meaning": "奶牛；母牛",
+      "example": "The cow gives us milk. 奶牛为我们提供牛奶。"
+    },
+    {
+      "word": "crazy",
+      "phonetic": "/ˈkreɪzi/",
+      "meaning": "疯狂的；着迷的",
+      "example": "He is crazy about football. 他对足球很着迷。"
+    },
+    {
+      "word": "create",
+      "phonetic": "/kriˈeɪt/",
+      "meaning": "创造；创建；创作",
+      "example": "Artists create beautiful paintings. 艺术家创作美丽的画作。"
+    },
+    {
+      "word": "cross",
+      "phonetic": "/krɒs/",
+      "meaning": "十字形的东西；交叉；横过，穿过",
+      "example": "Cross the road at the zebra crossing. 走斑马线过马路。"
+    },
+    {
+      "word": "crossing",
+      "phonetic": "/ˈkrɒsɪŋ/",
+      "meaning": "十字路口；交叉点",
+      "example": "Turn left at the next crossing. 在下一个十字路口左转。"
+    },
+    {
+      "word": "crowd",
+      "phonetic": "/kraʊd/",
+      "meaning": "人群；拥挤；聚集",
+      "example": "There is a big crowd in the park. 公园里有一大群人。"
+    },
+    {
+      "word": "cruel",
+      "phonetic": "/ˈkruːəl/",
+      "meaning": "残忍的；残酷的",
+      "example": "It's cruel to hurt animals. 伤害动物是残忍的。"
+    }
+  ],
+  "高中词汇": [
+    {
+      "word": "a (an)",
+      "phonetic": "/ə, eɪ(ən)/",
+      "meaning": "一（个、件……）",
+      "example": "A book is on the desk. 桌子上有一本书。"
+    },
+    {
+      "word": "ability",
+      "phonetic": "/əˈbɪlɪtɪ/",
+      "meaning": "能力;才能",
+      "example": "She has great ability in painting. 她在绘画方面很有天赋。"
+    },
+    {
+      "word": "able",
+      "phonetic": "/ˈeɪb(ə)l/",
+      "meaning": "能够;有能力的",
+      "example": "He is able to finish the task alone. 他能独自完成这项任务。"
+    },
+    {
+      "word": "about",
+      "phonetic": "/əˈbaʊt/",
+      "meaning": "大约;到处;四处；关于;在各处;四处",
+      "example": "We talked about our school life. 我们谈论了我们的学校生活。"
+    },
+    {
+      "word": "above",
+      "phonetic": "/əˈbʌv/",
+      "meaning": "在…上面；上面的；在…之上",
+      "example": "The bird is flying above the building. 那只鸟在大楼上方飞翔。"
+    },
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meaning": "到（在）国外",
+      "example": "Many students go abroad to study. 很多学生出国深造。"
+    },
+    {
+      "word": "accept",
+      "phonetic": "/əkˈsept/",
+      "meaning": "接受",
+      "example": "She accepted his invitation to the party. 她接受了他的派对邀请。"
+    },
+    {
+      "word": "accident",
+      "phonetic": "/ˈæksɪdənt/",
+      "meaning": "事故,意外",
+      "example": "He had a car accident on his way to work. 他上班路上发生了车祸。"
+    },
+    {
+      "word": "across",
+      "phonetic": "/əˈkrɔs/",
+      "meaning": "横过;穿过;另一边,在对面",
+      "example": "They walked across the bridge. 他们走过了桥。"
+    },
+    {
+      "word": "act",
+      "phonetic": "/ækt/",
+      "meaning": "法令，条例；行动,（戏）表演,扮演（角色）",
+      "example": "She acted the main role in the play. 她在剧中扮演主角。"
+    },
+    {
+      "word": "action",
+      "phonetic": "/ˈækʃ(ə)n/",
+      "meaning": "行动,行为,举动",
+      "example": "We need to take action immediately. 我们需要立即采取行动。"
+    },
+    {
+      "word": "active",
+      "phonetic": "/ˈæktɪv/",
+      "meaning": "积极的，主动的",
+      "example": "He is an active member of the club. 他是俱乐部的活跃成员。"
+    },
+    {
+      "word": "activity",
+      "phonetic": "/ækˈtɪvɪtɪ/",
+      "meaning": "活动",
+      "example": "The school organizes various after-school activities. 学校组织各种课外活动。"
+    },
+    {
+      "word": "advantage",
+      "phonetic": "/ədˈvɑːntɪdʒ/",
+      "meaning": "优点；好处,有利条件",
+      "example": "Being tall is an advantage in basketball. 个子高在篮球运动中是个优势。"
+    },
+    {
+      "word": "advertisement",
+      "phonetic": "/ədˈvɜːtɪsmənt/",
+      "meaning": "广告",
+      "example": "I saw an advertisement for a new phone. 我看到一则新手机的广告。"
+    },
+    {
+      "word": "advice",
+      "phonetic": "/ədˈvaɪs/",
+      "meaning": "忠告，劝告，建议",
+      "example": "Can you give me some advice on learning English? 你能给我一些学英语的建议吗？"
+    },
+    {
+      "word": "afford",
+      "phonetic": "/əˈfɔːd/",
+      "meaning": "负担得起（…的费用）；抽得出（时间）；提供",
+      "example": "I can't afford to buy a new house now. 我现在买不起新房子。"
+    },
+    {
+      "word": "afraid",
+      "phonetic": "/əˈfreɪd/",
+      "meaning": "害怕的；担心",
+      "example": "She is afraid of snakes. 她害怕蛇。"
+    },
+    {
+      "word": "Africa",
+      "phonetic": "/ˈæfrɪkə/",
+      "meaning": "非洲",
+      "example": "Many rare animals live in Africa. 很多珍稀动物生活在非洲。"
+    },
+    {
+      "word": "after",
+      "phonetic": "/ˈɑːftə(r)/",
+      "meaning": "在后；后来；在…之后；在…以后",
+      "example": "I will call you after dinner. 晚饭后我会给你打电话。"
+    },
+    {
+      "word": "afternoon",
+      "phonetic": "/ɑːftəˈnuːn/",
+      "meaning": "下午，午后",
+      "example": "We have a meeting this afternoon. 我们今天下午有个会议。"
+    },
+    {
+      "word": "again",
+      "phonetic": "/əˈɡeɪn/",
+      "meaning": "再一次；再，又",
+      "example": "Please read the text again. 请再读一遍课文。"
+    },
+    {
+      "word": "against",
+      "phonetic": "/əˈɡeɪnst/",
+      "meaning": "对着,反对,倚靠",
+      "example": "He is against the new plan. 他反对这个新计划。"
+    },
+    {
+      "word": "age",
+      "phonetic": "/eɪdʒ/",
+      "meaning": "年龄；时代",
+      "example": "What's your age? 你多大年纪了？"
+    },
+    {
+      "word": "ago",
+      "phonetic": "/əˈɡəʊ/",
+      "meaning": "以前",
+      "example": "I met her three years ago. 我三年前见过她。"
+    },
+    {
+      "word": "agree",
+      "phonetic": "/əˈɡriː/",
+      "meaning": "同意",
+      "example": "I agree with your opinion. 我同意你的观点。"
+    },
+    {
+      "word": "air",
+      "phonetic": "/eə(r)/",
+      "meaning": "空气；大气",
+      "example": "The air in the countryside is fresh. 乡下的空气很清新。"
+    },
+    {
+      "word": "aircraft",
+      "phonetic": "/ˈeəkrɑːft/",
+      "meaning": "飞机 (单复数同)",
+      "example": "The airport has many aircraft. 这个机场有很多飞机。"
+    },
+    {
+      "word": "airline",
+      "phonetic": "/ˈeəlain/",
+      "meaning": "航空公司;航空系统;航线",
+      "example": "Which airline do you prefer to take? 你更喜欢乘坐哪家航空公司的飞机？"
+    },
+    {
+      "word": "airplane",
+      "phonetic": "/ˈeəpleɪn/",
+      "meaning": "（美）飞机",
+      "example": "The airplane will take off in ten minutes. 飞机十分钟后起飞。"
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meaning": "航空站,飞机场",
+      "example": "We arrived at the airport early. 我们早早到达了机场。"
+    },
+    {
+      "word": "alike",
+      "phonetic": "/əˈlaɪk/",
+      "meaning": "很相似地，同样地",
+      "example": "The two sisters look very alike. 这两姐妹长得很像。"
+    },
+    {
+      "word": "alive",
+      "phonetic": "/əˈlaɪv/",
+      "meaning": "活着的，存在的",
+      "example": "He is lucky to be alive after the accident. 事故后他能活着真是幸运。"
+    },
+    {
+      "word": "all",
+      "phonetic": "/ɔːl/",
+      "meaning": "全部地；全（部）;所有的;总;整；全部;全体",
+      "example": "All students must finish the homework. 所有学生都必须完成作业。"
+    },
+    {
+      "word": "allow",
+      "phonetic": "/əˈlaʊ/",
+      "meaning": "允许，准许",
+      "example": "My parents don't allow me to stay up late. 我父母不允许我熬夜。"
+    },
+    {
+      "word": "almost",
+      "phonetic": "/ˈɔːlməʊst/",
+      "meaning": "几乎，差不多",
+      "example": "It's almost time to leave. 差不多该走了。"
+    },
+    {
+      "word": "alone",
+      "phonetic": "/əˈləʊn/",
+      "meaning": "单独的，孤独的",
+      "example": "She likes to be alone in her room. 她喜欢一个人待在房间里。"
+    },
+    {
+      "word": "along",
+      "phonetic": "/əˈlɔŋ/",
+      "meaning": "向前；和…一起；一同；沿着；顺着",
+      "example": "We walked along the river bank. 我们沿着河岸散步。"
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredɪ/",
+      "meaning": "已经",
+      "example": "I have already finished my homework. 我已经完成作业了。"
+    },
+    {
+      "word": "also",
+      "phonetic": "/ˈɔːlsəʊ/",
+      "meaning": "也",
+      "example": "She also plays the piano well. 她钢琴也弹得很好。"
+    },
+    {
+      "word": "although",
+      "phonetic": "/ɔːlˈðəʊ/",
+      "meaning": "虽然，尽管",
+      "example": "Although it rained, we still went hiking. 尽管下雨了，我们还是去徒步旅行了。"
+    },
+    {
+      "word": "always",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meaning": "总是；一直；永远",
+      "example": "He always gets up early. 他总是早起。"
+    },
+    {
+      "word": "am",
+      "phonetic": "/æm/",
+      "meaning": "be的人称形式之一",
+      "example": "I am a high school student. 我是一名高中生。"
+    },
+    {
+      "word": "a.m./A.M.",
+      "phonetic": "/ˌeɪˈem/",
+      "meaning": "午前，上午",
+      "example": "The meeting starts at 9 a.m. 会议上午9点开始。"
+    },
+    {
+      "word": "amaze",
+      "phonetic": "/əˈmeɪz/",
+      "meaning": "惊奇，惊叹；震惊",
+      "example": "The beautiful scenery amazed us. 美丽的景色让我们惊叹不已。"
+    },
+    {
+      "word": "amazing",
+      "phonetic": "/əˈmeɪzɪŋ/",
+      "meaning": "惊叹的;震惊的;令人惊讶的",
+      "example": "It's an amazing story. 这是一个令人惊叹的故事。"
+    },
+    {
+      "word": "America",
+      "phonetic": "/əˈmerɪkə/",
+      "meaning": "美国；美洲",
+      "example": "He traveled to America last year. 他去年去了美国旅行。"
+    },
+    {
+      "word": "American",
+      "phonetic": "/əˈmerɪkən/",
+      "meaning": "美国的；美国人的；美国人",
+      "example": "She is an American teacher. 她是一名美国教师。"
+    },
+    {
+      "word": "among",
+      "phonetic": "/əˈmʌŋ/",
+      "meaning": "在…中间；在（三个以上）之间",
+      "example": "She is sitting among her friends. 她坐在朋友们中间。"
+    },
+    {
+      "word": "and",
+      "phonetic": "/ənd, ænd/",
+      "meaning": "和；又",
+      "example": "I like coffee and tea. 我喜欢咖啡和茶。"
+    },
+    {
+      "word": "angel",
+      "phonetic": "/ˈeɪndʒəl/",
+      "meaning": "天使,守护神",
+      "example": "She looks like an angel. 她看起来像个天使。"
+    },
+    {
+      "word": "angry",
+      "phonetic": "/ˈænɡrɪ/",
+      "meaning": "生气的，愤怒的",
+      "example": "My father was angry with me for being late. 我爸爸因为我迟到而生气。"
+    },
+    {
+      "word": "animal",
+      "phonetic": "/ˈænɪm(ə)l/",
+      "meaning": "动物",
+      "example": "We should protect wild animals. 我们应该保护野生动物。"
+    },
+    {
+      "word": "another",
+      "phonetic": "/əˈnʌðə(r)/",
+      "meaning": "再一；另一；别的；另一个",
+      "example": "Can you give me another pen? 你能再给我一支笔吗？"
+    },
+    {
+      "word": "answer",
+      "phonetic": "/ˈɑːnsə(r)/",
+      "meaning": "回答,答复;答案；回答,答复;（作出）答案",
+      "example": "Please answer my question. 请回答我的问题。"
+    },
+    {
+      "word": "any",
+      "phonetic": "/ˈenɪ/",
+      "meaning": "任何的;（用于疑问句、否定句）一些；什么",
+      "example": "Do you have any questions? 你有什么问题吗？"
+    },
+    {
+      "word": "anyhow",
+      "phonetic": "/ˈenɪhaʊ/",
+      "meaning": "不管怎样",
+      "example": "Anyhow, we have to finish the work today. 不管怎样，我们今天必须完成这项工作。"
+    },
+    {
+      "word": "anyone",
+      "phonetic": "/ˈenɪwʌn/",
+      "meaning": "任何人，无论谁",
+      "example": "Anyone can join the club. 任何人都可以加入这个俱乐部。"
+    },
+    {
+      "word": "anything",
+      "phonetic": "/ˈenɪθɪŋ/",
+      "meaning": "什么事（物）；任何事（物）",
+      "example": "Is there anything I can do for you? 我能为你做些什么吗？"
+    },
+    {
+      "word": "anywhere",
+      "phonetic": "/ˈenɪweə(r)/",
+      "meaning": "任何地方",
+      "example": "You can go anywhere you like. 你可以去任何你想去的地方。"
+    },
+    {
+      "word": "apologize",
+      "phonetic": "/əˈpɔlədʒaɪz/",
+      "meaning": "道歉，谢罪",
+      "example": "You should apologize to her for your mistake. 你应该为你的错误向她道歉。"
+    },
+    {
+      "word": "apology",
+      "phonetic": "/əˈpɔlədʒɪ/",
+      "meaning": "道歉；歉意",
+      "example": "He offered his apology for being late. 他为迟到而道歉。"
+    },
+    {
+      "word": "apple",
+      "phonetic": "/ˈæp(ə)l/",
+      "meaning": "苹果",
+      "example": "I eat an apple every day. 我每天吃一个苹果。"
+    },
+    {
+      "word": "April",
+      "phonetic": "/ˈeɪpr(ə)l/",
+      "meaning": "4月",
+      "example": "My birthday is in April. 我的生日在四月。"
+    },
+    {
+      "word": "Arab",
+      "phonetic": "/ˈærəb/",
+      "meaning": "阿拉伯的；阿拉伯人",
+      "example": "He is an Arab businessman. 他是一名阿拉伯商人。"
+    },
+    {
+      "word": "area",
+      "phonetic": "/ˈeərɪə/",
+      "meaning": "面积；地域，区域；范围，领域",
+      "example": "This area is famous for its wine. 这个地区以葡萄酒闻名。"
+    },
+    {
+      "word": "arm",
+      "phonetic": "/ɑːm/",
+      "meaning": "臂,支架,（美）武器,武力",
+      "example": "He hurt his arm in the accident. 他在事故中伤了胳膊。"
+    },
+    {
+      "word": "army",
+      "phonetic": "/ˈɑːmɪ/",
+      "meaning": "军队",
+      "example": "His brother joined the army last year. 他哥哥去年参军了。"
+    },
+    {
+      "word": "around",
+      "phonetic": "/əˈraʊnd/",
+      "meaning": "在周围；在附近；在…周围；大约",
+      "example": "There are many trees around the park. 公园周围有很多树。"
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meaning": "到达；达到",
+      "example": "We arrived at the hotel at 7 p.m. 我们晚上7点到达了酒店。"
+    },
+    {
+      "word": "arrow",
+      "phonetic": "/ˈærəʊ/",
+      "meaning": "箭；箭头",
+      "example": "He shot an arrow at the target. 他向靶子射了一箭。"
+    },
+    {
+      "word": "art",
+      "phonetic": "/ɑːt/",
+      "meaning": "艺术，美术；技艺",
+      "example": "She has a great talent for art. 她在艺术方面很有天赋。"
+    },
+    {
+      "word": "artist",
+      "phonetic": "/ˈɑːtɪst/",
+      "meaning": "艺术家,美术家",
+      "example": "The artist painted a beautiful landscape. 这位艺术家画了一幅美丽的风景画。"
+    },
+    {
+      "word": "article",
+      "phonetic": "/ˈɑːtɪk(ə)l/",
+      "meaning": "文章;物品;冠词",
+      "example": "I read an interesting article in the newspaper. 我在报纸上读了一篇有趣的文章。"
+    },
+    {
+      "word": "as",
+      "phonetic": "/əz, æz/",
+      "meaning": "像…一样;当…时；如同；因为；作为，当做",
+      "example": "As a student, we should study hard. 作为学生，我们应该努力学习。"
+    },
+    {
+      "word": "Asia",
+      "phonetic": "/ˈeɪʃə/",
+      "meaning": "亚洲",
+      "example": "China is the largest country in Asia. 中国是亚洲最大的国家。"
+    },
+    {
+      "word": "Asian",
+      "phonetic": "/ˈeɪʃ(ə)n, ˈeɪʒ(ə)n/",
+      "meaning": "亚洲（人）的；亚洲人",
+      "example": "She is of Asian descent. 她有亚洲血统。"
+    },
+    {
+      "word": "ask",
+      "phonetic": "/ɑːsk/",
+      "meaning": "问；请求，要求；邀请",
+      "example": "May I ask you a favor? 我能请你帮个忙吗？"
+    },
+    {
+      "word": "asleep",
+      "phonetic": "/əˈsliːp/",
+      "meaning": "睡着的，熟睡",
+      "example": "The baby fell asleep quickly. 宝宝很快就睡着了。"
+    },
+    {
+      "word": "assistant",
+      "phonetic": "/əˈsɪst(ə)nt/",
+      "meaning": "助手，助理",
+      "example": "She works as a personal assistant. 她担任私人助理。"
+    },
+    {
+      "word": "at",
+      "phonetic": "/æt/",
+      "meaning": "在（几点钟）;在（某处）",
+      "example": "I will meet you at the station. 我会在车站等你。"
+    },
+    {
+      "word": "attack",
+      "phonetic": "/əˈtæk/",
+      "meaning": "攻击，袭击",
+      "example": "The army launched an attack at dawn. 军队在黎明时发起了进攻。"
+    },
+    {
+      "word": "attend",
+      "phonetic": "/əˈtend/",
+      "meaning": "看护，照料，服侍；出席，参加",
+      "example": "All students must attend the meeting. 所有学生都必须参加会议。"
+    },
+    {
+      "word": "attention",
+      "phonetic": "/əˈtenʃ(ə)n/",
+      "meaning": "注意，关心",
+      "example": "Please pay attention to what the teacher is saying. 请注意老师说的话。"
+    },
+    {
+      "word": "attract",
+      "phonetic": "/əˈtrækt/",
+      "meaning": "吸引，引起",
+      "example": "The beautiful scenery attracted many tourists. 美丽的景色吸引了很多游客。"
+    },
+    {
+      "word": "August",
+      "phonetic": "/ˈɔːɡəst/",
+      "meaning": "8月",
+      "example": "We will have a holiday in August. 我们八月份会有一个假期。"
+    },
+    {
+      "word": "aunt",
+      "phonetic": "/ɑːnt/",
+      "meaning": "伯母；舅母；婶；姑；姨",
+      "example": "My aunt lives in Beijing. 我姑姑住在北京。"
+    },
+    {
+      "word": "Australia",
+      "phonetic": "/ɔˈstreɪljə/",
+      "meaning": "澳洲；澳大利亚",
+      "example": "Australia is famous for its beaches. 澳大利亚以其海滩而闻名。"
+    },
+    {
+      "word": "Australian",
+      "phonetic": "/ɔˈstreɪlɪən/",
+      "meaning": "澳洲的，澳大利亚人的；澳大利亚人",
+      "example": "He is an Australian scientist. 他是一名澳大利亚科学家。"
+    },
+    {
+      "word": "autumn",
+      "phonetic": "/ˈɔːtəm/",
+      "meaning": "秋天，秋季",
+      "example": "Autumn is my favorite season. 秋天是我最喜欢的季节。"
+    },
+    {
+      "word": "awake",
+      "phonetic": "/əˈweɪk/",
+      "meaning": "唤醒；醒着的",
+      "example": "I was awake all night thinking. 我整晚都醒着思考。"
+    },
+    {
+      "word": "away",
+      "phonetic": "/əˈweɪ/",
+      "meaning": "离开；远离",
+      "example": "He went away for a business trip. 他出差去了。"
+    },
+    {
+      "word": "awful",
+      "phonetic": "/ˈɔːfl/",
+      "meaning": "极坏的、极讨厌的、糟糕的、可怕的",
+      "example": "What an awful weather! 天气真糟糕！"
+    },
+    {
+      "word": "baby",
+      "phonetic": "/ˈbeɪbɪ/",
+      "meaning": "婴儿",
+      "example": "The baby is crying. 宝宝在哭。"
+    },
+    {
+      "word": "back",
+      "phonetic": "/bæk/",
+      "meaning": "回（原处）；向后；后面的；背后，后部；背",
+      "example": "Please go back to your seat. 请回到你的座位上。"
+    },
+    {
+      "word": "bad",
+      "phonetic": "/bæd/",
+      "meaning": "坏的；有害的，不利的；严重的",
+      "example": "Smoking is bad for your health. 吸烟有害健康。"
+    },
+    {
+      "word": "badly",
+      "phonetic": "/ˈbædlɪ/",
+      "meaning": "坏，恶劣地",
+      "example": "He did badly in the exam. 他考试考得很差。"
+    },
+    {
+      "word": "bake",
+      "phonetic": "/beɪk/",
+      "meaning": "烤； 烘（面包）",
+      "example": "She likes baking cakes on weekends. 她喜欢在周末烤蛋糕。"
+    },
+    {
+      "word": "ball",
+      "phonetic": "/bɔːl/",
+      "meaning": "球；舞会",
+      "example": "We played ball in the park. 我们在公园里打球。"
+    },
+    {
+      "word": "balloon",
+      "phonetic": "/bəˈluːn/",
+      "meaning": "气球",
+      "example": "The children are playing with balloons. 孩子们在玩气球。"
+    },
+    {
+      "word": "bamboo",
+      "phonetic": "/bæmˈbuː/",
+      "meaning": "竹子",
+      "example": "Pandas feed on bamboo. 熊猫以竹子为食。"
+    },
+    {
+      "word": "banana",
+      "phonetic": "/bəˈnɑːnə/",
+      "meaning": "香蕉",
+      "example": "I bought a bunch of bananas. 我买了一串香蕉。"
+    },
+    {
+      "word": "band",
+      "phonetic": "/bænd/",
+      "meaning": "乐队,波段,一伙,一帮,带(状物)",
+      "example": "He plays the guitar in a band. 他在一个乐队里弹吉他。"
+    },
+    {
+      "word": "bang",
+      "phonetic": "/bæŋ/",
+      "meaning": "砰",
+      "example": "We heard a loud bang. 我们听到一声巨响。"
+    },
+    {
+      "word": "bank",
+      "phonetic": "/bæŋk/",
+      "meaning": "（河海湖的）岸，堤, 银行",
+      "example": "I went to the bank to withdraw money. 我去银行取钱了。"
+    },
+    {
+      "word": "base",
+      "phonetic": "/beɪs/",
+      "meaning": "根据地,基地,（棒球）垒",
+      "example": "The army established a base in the area. 军队在该地区建立了一个基地。"
+    },
+    {
+      "word": "baseball",
+      "phonetic": "/ˈbeɪsbɔːl/",
+      "meaning": "棒球",
+      "example": "He is good at playing baseball. 他擅长打棒球。"
+    },
+    {
+      "word": "basket",
+      "phonetic": "/ˈbɑːskɪt/",
+      "meaning": "篮子",
+      "example": "She put the apples in the basket. 她把苹果放进了篮子里。"
+    },
+    {
+      "word": "basketball",
+      "phonetic": "/ˈbɑːskɪtbɔːl/",
+      "meaning": "篮球",
+      "example": "We play basketball every afternoon. 我们每天下午打篮球。"
+    },
+    {
+      "word": "bath",
+      "phonetic": "/bɑːθ/",
+      "meaning": "洗澡；浴室；澡盆",
+      "example": "I take a bath every evening. 我每天晚上洗澡。"
+    },
+    {
+      "word": "be",
+      "phonetic": "/biː/",
+      "meaning": "是 (am, is, are, was, were, being, been)；成为",
+      "example": "She wants to be a doctor. 她想成为一名医生。"
+    },
+    {
+      "word": "beach",
+      "phonetic": "/biːtʃ/",
+      "meaning": "海滨，海滩",
+      "example": "We spent the weekend at the beach. 我们在海滩度过了周末。"
+    },
+    {
+      "word": "bear",
+      "phonetic": "/beə(r)/",
+      "meaning": "承受，负担，承担；忍受；容忍；熊",
+      "example": "I can't bear the noise. 我受不了这噪音。"
+    },
+    {
+      "word": "beat",
+      "phonetic": "/biːt/",
+      "meaning": "敲打；跳动；打赢；（音乐）节拍",
+      "example": "His heart beats fast when he is nervous. 他紧张时心跳得很快。"
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪf(ə)l/",
+      "meaning": "美，美丽，美观的",
+      "example": "What a beautiful flower! 多么美丽的花啊！"
+    },
+    {
+      "word": "because",
+      "phonetic": "/bɪˈkɔz/",
+      "meaning": "因为",
+      "example": "I stayed at home because I was ill. 我因为生病待在了家里。"
+    },
+    {
+      "word": "become",
+      "phonetic": "/bɪˈkʌm/",
+      "meaning": "变得；成为",
+      "example": "He became famous after the movie. 这部电影之后他出名了。"
+    },
+    {
+      "word": "bed",
+      "phonetic": "/bed/",
+      "meaning": "床",
+      "example": "I go to bed at 10 p.m. 我晚上10点睡觉。"
+    },
+    {
+      "word": "bedroom",
+      "phonetic": "/ˈbedruːm/",
+      "meaning": "寝室，卧室",
+      "example": "My bedroom is on the second floor. 我的卧室在二楼。"
+    },
+    {
+      "word": "bee",
+      "phonetic": "/biː/",
+      "meaning": "蜜蜂",
+      "example": "Bees make honey. 蜜蜂酿蜜。"
+    },
+    {
+      "word": "beef",
+      "phonetic": "/biːf/",
+      "meaning": "牛肉",
+      "example": "I like eating beef noodles. 我喜欢吃牛肉面。"
+    },
+    {
+      "word": "beer",
+      "phonetic": "/bɪə(r)/",
+      "meaning": "啤酒",
+      "example": "He drank a bottle of beer. 他喝了一瓶啤酒。"
+    },
+    {
+      "word": "before",
+      "phonetic": "/bɪˈfɔː(r)/",
+      "meaning": "在…以前；在…前面；以前；在…之前",
+      "example": "I have never seen him before. 我以前从未见过他。"
+    },
+    {
+      "word": "beg",
+      "phonetic": "/beɡ/",
+      "meaning": "请求，乞求，乞讨",
+      "example": "The homeless man begged for money. 那个无家可归的人乞讨钱财。"
+    },
+    {
+      "word": "begin",
+      "phonetic": "/bɪˈɡɪn/",
+      "meaning": "开始,着手",
+      "example": "The meeting will begin at 9 o'clock. 会议将在9点开始。"
+    },
+    {
+      "word": "beginning",
+      "phonetic": "/bɪˈɡɪnɪŋ/",
+      "meaning": "开始，开端",
+      "example": "At the beginning of the year, I made a plan. 年初，我制定了一个计划。"
+    },
+    {
+      "word": "behind",
+      "phonetic": "/bɪˈhaɪnd/",
+      "meaning": "在…后面；在后面；向后",
+      "example": "There is a garden behind the house. 房子后面有一个花园。"
+    },
+    {
+      "word": "believe",
+      "phonetic": "/bɪˈliːv/",
+      "meaning": "相信，认为",
+      "example": "I believe what he said. 我相信他说的话。"
+    },
+    {
+      "word": "bell",
+      "phonetic": "/bel/",
+      "meaning": "钟,铃;钟(铃)声;钟形物",
+      "example": "The bell rang and the class began. 铃声响了，上课开始了。"
+    },
+    {
+      "word": "below",
+      "phonetic": "/bɪˈləʊ/",
+      "meaning": "在…下面",
+      "example": "Please write your name below the line. 请在线下面写下你的名字。"
+    },
+    {
+      "word": "beside",
+      "phonetic": "/bɪˈsaɪd/",
+      "meaning": "在…旁边；靠近",
+      "example": "She sat beside me during the meeting. 会议期间她坐在我旁边。"
+    },
+    {
+      "word": "besides",
+      "phonetic": "/bɪˈsaɪdz/",
+      "meaning": "除…以外（还有）；还有，此外",
+      "example": "Besides English, he also speaks French. 除了英语，他还会说法语。"
+    },
+    {
+      "word": "best",
+      "phonetic": "/best/",
+      "meaning": "最好的,最好地,最；最好的（人或物）",
+      "example": "This is the best book I have ever read. 这是我读过的最好的书。"
+    },
+    {
+      "word": "best-seller",
+      "phonetic": "/ˌbestˈselə(r)/",
+      "meaning": "畅销书",
+      "example": "This novel is a best-seller. 这本小说是畅销书。"
+    },
+    {
+      "word": "better",
+      "phonetic": "/ˈbetə(r)/",
+      "meaning": "更好的,更好地；更,更多；较好的事物",
+      "example": "You can do better next time. 下次你可以做得更好。"
+    },
+    {
+      "word": "between",
+      "phonetic": "/bɪˈtwiːn/",
+      "meaning": "在（两者）之间；在…中间",
+      "example": "The bank is between the post office and the hospital. 银行在邮局和医院之间。"
+    },
+    {
+      "word": "bicycle",
+      "phonetic": "/ˈbaɪsɪk(ə)l/",
+      "meaning": "自行车",
+      "example": "I go to school by bicycle. 我骑自行车去上学。"
+    },
+    {
+      "word": "big",
+      "phonetic": "/bɪɡ/",
+      "meaning": "大的",
+      "example": "There is a big tree in front of the house. 房子前面有一棵大树。"
+    },
+    {
+      "word": "bike",
+      "phonetic": "/baɪk/",
+      "meaning": "自行车",
+      "example": "He rides his bike to work every day. 他每天骑自行车上班。"
+    },
+    {
+      "word": "bill",
+      "phonetic": "/bɪl/",
+      "meaning": "账单；法案，议案；（美）钞票，纸币",
+      "example": "Please pay the bill. 请买单。"
+    },
+    {
+      "word": "billion",
+      "phonetic": "/ˈbɪljən/",
+      "meaning": "十亿",
+      "example": "The population of the country is over one billion. 这个国家的人口超过十亿。"
+    },
+    {
+      "word": "biology",
+      "phonetic": "/baɪˈɒlədʒɪ/",
+      "meaning": "生物（学）",
+      "example": "I am interested in biology. 我对生物学感兴趣。"
+    },
+    {
+      "word": "bird",
+      "phonetic": "/bɜːd/",
+      "meaning": "鸟",
+      "example": "The bird is singing in the tree. 鸟在树上唱歌。"
+    },
+    {
+      "word": "birth",
+      "phonetic": "/bɜːθ/",
+      "meaning": "出生；诞生",
+      "example": "His date of birth is March 12th. 他的出生日期是3月12日。"
+    },
+    {
+      "word": "birthday",
+      "phonetic": "/ˈbɜːθdeɪ/",
+      "meaning": "生日",
+      "example": "Happy birthday to you! 祝你生日快乐！"
+    },
+    {
+      "word": "bit",
+      "phonetic": "/bɪt/",
+      "meaning": "一点，一些，少量的",
+      "example": "I need a bit of sugar. 我需要一点糖。"
+    },
+    {
+      "word": "black",
+      "phonetic": "/blæk/",
+      "meaning": "黑色；黑色的",
+      "example": "She is wearing a black dress. 她穿着一条黑色的裙子。"
+    },
+    {
+      "word": "blackboard",
+      "phonetic": "/ˈblækbɔːd/",
+      "meaning": "黑板",
+      "example": "The teacher wrote on the blackboard. 老师在黑板上写字。"
+    },
+    {
+      "word": "blank",
+      "phonetic": "/blæŋk/",
+      "meaning": "空格，空白（处）；空的；茫然无表情的",
+      "example": "Please fill in the blanks. 请填空。"
+    },
+    {
+      "word": "blind",
+      "phonetic": "/blaɪnd/",
+      "meaning": "瞎的",
+      "example": "The blind man walked with a stick. 那个盲人拄着拐杖走路。"
+    },
+    {
+      "word": "blouse",
+      "phonetic": "/blaʊz/",
+      "meaning": "宽罩衫；（妇女、儿童穿的）短上衣",
+      "example": "She bought a new blouse yesterday. 她昨天买了一件新衬衫。"
+    },
+    {
+      "word": "blow",
+      "phonetic": "/bləʊ/",
+      "meaning": "吹；刮风；吹气；击；打击",
+      "example": "The wind is blowing hard. 风刮得很大。"
+    },
+    {
+      "word": "blue",
+      "phonetic": "/bluː/",
+      "meaning": "蓝色；蓝色的；悲伤的；沮丧的",
+      "example": "The sky is blue. 天空是蓝色的。"
+    },
+    {
+      "word": "board",
+      "phonetic": "/bɔːd/",
+      "meaning": "木板；布告牌;(政府的）部；上（船、火车、飞机）",
+      "example": "We boarded the train at 8 a.m. 我们上午8点上了火车。"
+    },
+    {
+      "word": "boat",
+      "phonetic": "/bəʊt/",
+      "meaning": "小船，小舟",
+      "example": "We rowed a boat on the lake. 我们在湖上划船。"
+    },
+    {
+      "word": "boating",
+      "phonetic": "/ˈbəʊtɪŋ/",
+      "meaning": "划船（游玩），泛舟",
+      "example": "We went boating last Sunday. 我们上周日去划船了。"
+    },
+    {
+      "word": "body",
+      "phonetic": "/ˈbɒdi/",
+      "meaning": "身体",
+      "example": "We should keep our body healthy. 我们应该保持身体健康。"
+    },
+    {
+      "word": "book",
+      "phonetic": "/bʊk/",
+      "meaning": "书；本子；预定，定（房间、车票等）",
+      "example": "I booked a hotel room online. 我在网上预订了酒店房间。"
+    },
+    {
+      "word": "bookmark",
+      "phonetic": "/ˈbʊkmɑːk/",
+      "meaning": "书签",
+      "example": "She put a bookmark in the book. 她在书里夹了一个书签。"
+    },
+    {
+      "word": "bookshop",
+      "phonetic": "/ˈbʊkʃɒp/",
+      "meaning": "书店",
+      "example": "There is a bookshop near the school. 学校附近有一家书店。"
+    },
+    {
+      "word": "bookstore",
+      "phonetic": "/ˈbʊkstɔː(r)/",
+      "meaning": "书店",
+      "example": "I bought this book from the bookstore. 我从书店买了这本书。"
+    },
+    {
+      "word": "boom",
+      "phonetic": "/buːm/",
+      "meaning": "繁荣，轰鸣，激增",
+      "example": "The economy is booming. 经济正在繁荣发展。"
+    },
+    {
+      "word": "boot",
+      "phonetic": "/buːt/",
+      "meaning": "长筒靴；靴",
+      "example": "She is wearing a pair of leather boots. 她穿着一双皮靴。"
+    },
+    {
+      "word": "boring",
+      "phonetic": "/ˈbɔːrɪŋ/",
+      "meaning": "乏味的，无聊的",
+      "example": "The movie is very boring. 这部电影很无聊。"
+    },
+    {
+      "word": "born",
+      "phonetic": "/bɔːn/",
+      "meaning": "出生的",
+      "example": "He was born in Shanghai. 他出生在上海。"
+    },
+    {
+      "word": "borrow",
+      "phonetic": "/ˈbɒrəʊ/",
+      "meaning": "（向别人）借用；借",
+      "example": "Can I borrow your pen? 我能借你的笔用一下吗？"
+    },
+    {
+      "word": "both",
+      "phonetic": "/bəʊθ/",
+      "meaning": "两；双；两者；双方",
+      "example": "Both of them are my friends. 他们俩都是我的朋友。"
+    },
+    {
+      "word": "bottle",
+      "phonetic": "/ˈbɒt(ə)l/",
+      "meaning": "瓶子",
+      "example": "There is a bottle of water on the table. 桌子上有一瓶水。"
+    },
+    {
+      "word": "bottom",
+      "phonetic": "/ˈbɒtəm/",
+      "meaning": "底部；底",
+      "example": "The book is at the bottom of the bag. 书在书包底部。"
+    },
+    {
+      "word": "bowl",
+      "phonetic": "/bəʊl/",
+      "meaning": "碗",
+      "example": "She ate a bowl of rice. 她吃了一碗米饭。"
+    },
+    {
+      "word": "box",
+      "phonetic": "/bɒks/",
+      "meaning": "盒子，箱子",
+      "example": "I put the gifts in a box. 我把礼物放进了一个盒子里。"
+    },
+    {
+      "word": "boy",
+      "phonetic": "/bɔɪ/",
+      "meaning": "男孩",
+      "example": "The boy is playing football. 那个男孩在踢足球。"
+    },
+    {
+      "word": "brain",
+      "phonetic": "/breɪn/",
+      "meaning": "脑（子）",
+      "example": "We should use our brain more often. 我们应该多动脑筋。"
+    },
+    {
+      "word": "bread",
+      "phonetic": "/bred/",
+      "meaning": "面包",
+      "example": "I have bread and milk for breakfast. 我早餐吃面包和牛奶。"
+    },
+    {
+      "word": "break",
+      "phonetic": "/breɪk/",
+      "meaning": "间隙,中断,暂停；打破（断，碎）",
+      "example": "Let's take a break. 我们休息一下吧。"
+    },
+    {
+      "word": "breakfast",
+      "phonetic": "/ˈbrekfəst/",
+      "meaning": "早餐",
+      "example": "Breakfast is important for our health. 早餐对我们的健康很重要。"
+    },
+    {
+      "word": "breathe",
+      "phonetic": "/briːð/",
+      "meaning": "呼吸",
+      "example": "We need to breathe fresh air. 我们需要呼吸新鲜空气。"
+    },
+    {
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "meaning": "桥",
+      "example": "The bridge connects the two cities. 这座桥连接着两个城市。"
+    },
+    {
+      "word": "bright",
+      "phonetic": "/braɪt/",
+      "meaning": "明亮的；聪明的",
+      "example": "She has a bright future. 她有一个光明的未来。"
+    },
+    {
+      "word": "bring",
+      "phonetic": "/brɪŋ/",
+      "meaning": "拿来，带来，取来",
+      "example": "Please bring your notebook to class. 请把你的笔记本带到课堂上。"
+    },
+    {
+      "word": "Britain",
+      "phonetic": "/ˈbrɪtən/",
+      "meaning": "英国；不列颠",
+      "example": "He is from Britain. 他来自英国。"
+    },
+    {
+      "word": "British",
+      "phonetic": "/ˈbrɪtɪʃ/",
+      "meaning": "英国的；大不列颠的；英国人的",
+      "example": "She speaks British English. 她说英式英语。"
+    },
+    {
+      "word": "broadcast",
+      "phonetic": "/ˈbrɔːdkɑːst/",
+      "meaning": "广播",
+      "example": "The news was broadcast on TV. 这条新闻在电视上播出了。"
+    },
+    {
+      "word": "broken",
+      "phonetic": "/ˈbrəʊkən/",
+      "meaning": "弄坏了的",
+      "example": "The glass is broken. 杯子碎了。"
+    },
+    {
+      "word": "broom",
+      "phonetic": "/bruːm/",
+      "meaning": "扫帚",
+      "example": "She swept the floor with a broom. 她用扫帚扫地。"
+    },
+    {
+      "word": "brother",
+      "phonetic": "/ˈbrʌðə(r)/",
+      "meaning": "兄；弟",
+      "example": "My brother is two years older than me. 我哥哥比我大两岁。"
+    },
+    {
+      "word": "brotherhood",
+      "phonetic": "/ˈbrʌðəhʊd/",
+      "meaning": "兄弟般的关系",
+      "example": "They have a strong brotherhood. 他们有着深厚的兄弟情谊。"
+    },
+    {
+      "word": "brown",
+      "phonetic": "/braʊn/",
+      "meaning": "褐色，棕色；褐色的，棕色的",
+      "example": "Her hair is brown. 她的头发是棕色的。"
+    },
+    {
+      "word": "brush",
+      "phonetic": "/brʌʃ/",
+      "meaning": "刷；擦；刷子",
+      "example": "I brush my teeth twice a day. 我每天刷两次牙。"
+    },
+    {
+      "word": "build",
+      "phonetic": "/bɪld/",
+      "meaning": "建筑；造",
+      "example": "They are building a new school. 他们正在建一所新学校。"
+    },
+    {
+      "word": "building",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "meaning": "建筑物；房屋；大楼",
+      "example": "This is a tall building. 这是一栋高楼。"
+    },
+    {
+      "word": "burn",
+      "phonetic": "/bɜːn/",
+      "meaning": "燃烧,着火;使烧焦;使晒黑；烧伤;晒伤",
+      "example": "The fire burned the house down. 大火烧毁了房子。"
+    },
+    {
+      "word": "bury",
+      "phonetic": "/ˈberɪ/",
+      "meaning": "埋；葬",
+      "example": "They buried the dead soldier. 他们埋葬了那位阵亡的士兵。"
+    },
+    {
+      "word": "bus",
+      "phonetic": "/bʌs/",
+      "meaning": "公共汽车",
+      "example": "I take the bus to work. 我坐公共汽车上班。"
+    },
+    {
+      "word": "business",
+      "phonetic": "/ˈbɪznɪs/",
+      "meaning": "（本分）工作，职业；职责；生意，交易；事业",
+      "example": "He is in the business of selling cars. 他是做汽车销售生意的。"
+    },
+    {
+      "word": "businessman",
+      "phonetic": "/ˈbɪznɪsmæn/",
+      "meaning": "商人（男）；男企业家",
+      "example": "The businessman made a lot of money. 那个商人赚了很多钱。"
+    }
+  ],
+  "大学四级": [
+    {
+      "word": "a",
+      "phonetic": "/ə, eɪ/",
+      "meaning": "一(个)；每一(个)",
+      "example": "A good book is a good friend. 一本好书就是一个好朋友。"
+    },
+    {
+      "word": "abandon",
+      "phonetic": "/əˈbændən/",
+      "meaning": "丢弃；放弃，抛弃",
+      "example": "He had to abandon his plan due to lack of funds. 由于资金短缺，他不得不放弃计划。"
+    },
+    {
+      "word": "ability",
+      "phonetic": "/əˈbɪləti/",
+      "meaning": "能力；能耐，本领",
+      "example": "She has the ability to solve complex problems. 她有解决复杂问题的能力。"
+    },
+    {
+      "word": "able",
+      "phonetic": "/ˈeɪbl/",
+      "meaning": "有能力的；出色的",
+      "example": "He is able to speak three foreign languages. 他能说三门外语。"
+    },
+    {
+      "word": "abnormal",
+      "phonetic": "/æbˈnɔːməl/",
+      "meaning": "不正常的；变态的",
+      "example": "The test showed some abnormal results. 测试显示出一些异常结果。"
+    },
+    {
+      "word": "aboard",
+      "phonetic": "/əˈbɔːd/",
+      "meaning": "在船(车)上；上船",
+      "example": "Passengers must board the plane before 9 a.m. 乘客必须在上午9点前登机。"
+    },
+    {
+      "word": "about",
+      "phonetic": "/əˈbaʊt/",
+      "meaning": "关于；在…周围",
+      "example": "We talked about our travel plans for the holiday. 我们讨论了假期的旅行计划。"
+    },
+    {
+      "word": "above",
+      "phonetic": "/əˈbʌv/",
+      "meaning": "在…上面；高于",
+      "example": "The temperature is above average this month. 这个月的气温高于平均水平。"
+    },
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meaning": "（在）国外；到处",
+      "example": "Many students choose to study abroad after graduation. 很多学生毕业后选择出国留学。"
+    },
+    {
+      "word": "absence",
+      "phonetic": "/ˈæbsəns/",
+      "meaning": "缺席，不在场；缺乏",
+      "example": "His absence from the meeting was noticed by everyone. 他缺席会议一事被所有人注意到了。"
+    },
+    {
+      "word": "absent",
+      "phonetic": "/ˈæbsənt/",
+      "meaning": "不在场的；缺乏的",
+      "example": "She was absent from work due to illness. 她因病缺勤。"
+    },
+    {
+      "word": "absolute",
+      "phonetic": "/ˈæbsəluːt/",
+      "meaning": "绝对的；纯粹的",
+      "example": "There is no absolute truth in this world. 这个世界上没有绝对的真理。"
+    },
+    {
+      "word": "absolutely",
+      "phonetic": "/ˈæbsəluːtli/",
+      "meaning": "完全地；绝对地",
+      "example": "I absolutely agree with your point of view. 我完全同意你的观点。"
+    },
+    {
+      "word": "absorb",
+      "phonetic": "/əbˈsɔːb/",
+      "meaning": "吸收；使专心",
+      "example": "Plants absorb carbon dioxide from the air. 植物从空气中吸收二氧化碳。"
+    },
+    {
+      "word": "abstract",
+      "phonetic": "/ˈæbstrækt/",
+      "meaning": "抽象的；摘要",
+      "example": "This is an abstract painting that requires deep thought. 这是一幅需要深入思考的抽象画。"
+    },
+    {
+      "word": "abundant",
+      "phonetic": "/əˈbʌndənt/",
+      "meaning": "丰富的；大量的",
+      "example": "The region is abundant in natural resources. 该地区自然资源丰富。"
+    },
+    {
+      "word": "abuse",
+      "phonetic": "/əˈbjuːz/",
+      "meaning": "滥用；虐待；滥用",
+      "example": "Drug abuse can cause serious health problems. 药物滥用会导致严重的健康问题。"
+    },
+    {
+      "word": "academic",
+      "phonetic": "/ˌækəˈdemɪk/",
+      "meaning": "学院的；学术的",
+      "example": "He has made great academic achievements. 他取得了卓越的学术成就。"
+    },
+    {
+      "word": "academy",
+      "phonetic": "/əˈkædəmi/",
+      "meaning": "私立中学；专科院校",
+      "example": "She was admitted to a famous art academy. 她被一所著名的艺术学院录取。"
+    },
+    {
+      "word": "accelerate",
+      "phonetic": "/ækˈseləreɪt/",
+      "meaning": "（使）加快；促进",
+      "example": "The government plans to accelerate economic growth. 政府计划加快经济增长。"
+    },
+    {
+      "word": "acceleration",
+      "phonetic": "/ækˌseləˈreɪʃən/",
+      "meaning": "加速(度)",
+      "example": "The car has good acceleration on the highway. 这辆车在高速公路上加速性能很好。"
+    },
+    {
+      "word": "accent",
+      "phonetic": "/ˈæksənt/",
+      "meaning": "口音，腔调；重音",
+      "example": "She speaks English with a slight French accent. 她说英语带有轻微的法国口音。"
+    },
+    {
+      "word": "accept",
+      "phonetic": "/əkˈsept/",
+      "meaning": "接受；同意",
+      "example": "He accepted the invitation to the conference. 他接受了参加会议的邀请。"
+    },
+    {
+      "word": "acceptable",
+      "phonetic": "/əkˈseptəbl/",
+      "meaning": "可接受/合意的",
+      "example": "Your proposal is acceptable to our team. 你的提议我们团队可以接受。"
+    },
+    {
+      "word": "acceptance",
+      "phonetic": "/əkˈseptəns/",
+      "meaning": "接受，验收；承认",
+      "example": "The acceptance of the new policy was widespread. 新政策得到了广泛认可。"
+    },
+    {
+      "word": "access",
+      "phonetic": "/ˈækses/",
+      "meaning": "接近；通道，入口",
+      "example": "Students have free access to the school library. 学生可以免费使用学校图书馆。"
+    },
+    {
+      "word": "accessory",
+      "phonetic": "/ækˈsesəri/",
+      "meaning": "同谋，从犯；附件",
+      "example": "The phone comes with several useful accessories. 这部手机配有几个实用的配件。"
+    },
+    {
+      "word": "accident",
+      "phonetic": "/ˈæksɪdənt/",
+      "meaning": "意外的；事故",
+      "example": "A traffic accident happened at the crossroads. 十字路口发生了一起交通事故。"
+    },
+    {
+      "word": "accidental",
+      "phonetic": "/ˌæksɪˈdentl/",
+      "meaning": "偶然的；非本质的",
+      "example": "The damage was caused by an accidental mistake. 损坏是由一个偶然的错误造成的。"
+    },
+    {
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "容纳;供应,供给",
+      "example": "The hotel can accommodate up to 500 guests. 这家酒店最多可容纳500名客人。"
+    },
+    {
+      "word": "accommodation",
+      "phonetic": "/əˌkɒməˈdeɪʃən/",
+      "meaning": "招待设备；预定铺位",
+      "example": "We need to book accommodation in advance for the trip. 我们需要提前为旅行预订住宿。"
+    },
+    {
+      "word": "accompany",
+      "phonetic": "/əˈkʌmpəni/",
+      "meaning": "陪伴，陪同；伴随",
+      "example": "Her mother accompanied her to the airport. 她妈妈陪她去了机场。"
+    },
+    {
+      "word": "accomplish",
+      "phonetic": "/əˈkɒmplɪʃ/",
+      "meaning": "达到(目的)；完成",
+      "example": "She accomplished her goal through hard work. 她通过努力工作实现了目标。"
+    },
+    {
+      "word": "accord",
+      "phonetic": "/əˈkɔːd/",
+      "meaning": "使一致；给予",
+      "example": "His actions accord with his words. 他言行一致。"
+    },
+    {
+      "word": "accordance",
+      "phonetic": "/əˈkɔːdəns/",
+      "meaning": "一致；和谐；授予",
+      "example": "We acted in accordance with the rules. 我们按照规则行事。"
+    },
+    {
+      "word": "accordingly",
+      "phonetic": "/əˈkɔːdɪŋli/",
+      "meaning": "因此，所以；照着",
+      "example": "He didn't study hard, accordingly he failed the exam. 他学习不努力，因此考试不及格。"
+    },
+    {
+      "word": "account",
+      "phonetic": "/əˈkaʊnt/",
+      "meaning": "记述；解释；帐目",
+      "example": "You need to keep a detailed account of your expenses. 你需要详细记录你的开支。"
+    },
+    {
+      "word": "accumulate",
+      "phonetic": "/əˈkjuːmjuleɪt/",
+      "meaning": "积累；堆积",
+      "example": "We should accumulate knowledge bit by bit. 我们应该一点一滴积累知识。"
+    },
+    {
+      "word": "accuracy",
+      "phonetic": "/ˈækjərəsi/",
+      "meaning": "准确(性)；准确度",
+      "example": "The accuracy of the data is crucial for the research. 数据的准确性对研究至关重要。"
+    },
+    {
+      "word": "accurate",
+      "phonetic": "/ˈækjərət/",
+      "meaning": "准确的，正确无误的",
+      "example": "Please provide an accurate description of the incident. 请准确描述这起事件。"
+    },
+    {
+      "word": "accuse",
+      "phonetic": "/əˈkjuːz/",
+      "meaning": "指责；归咎于",
+      "example": "He was accused of stealing the company's property. 他被指控盗窃公司财产。"
+    },
+    {
+      "word": "accustom",
+      "phonetic": "/əˈkʌstəm/",
+      "meaning": "使习惯",
+      "example": "It takes time to accustom yourself to a new environment. 适应新环境需要时间。"
+    },
+    {
+      "word": "accustomed",
+      "phonetic": "/əˈkʌstəmd/",
+      "meaning": "惯常的；习惯的",
+      "example": "She is accustomed to getting up early. 她习惯早起。"
+    },
+    {
+      "word": "ache",
+      "phonetic": "/eɪk/",
+      "meaning": "痛；想念；疼痛",
+      "example": "I have a headache after working on the computer for hours. 对着电脑工作几小时后我头疼。"
+    },
+    {
+      "word": "achieve",
+      "phonetic": "/əˈtʃiːv/",
+      "meaning": "完成，实现；达到",
+      "example": "He achieved great success in his career. 他在事业上取得了巨大成功。"
+    },
+    {
+      "word": "achievement",
+      "phonetic": "/əˈtʃiːvmənt/",
+      "meaning": "完成；成就/绩",
+      "example": "His scientific achievements are widely recognized. 他的科学成就得到了广泛认可。"
+    },
+    {
+      "word": "acid",
+      "phonetic": "/ˈæsɪd/",
+      "meaning": "酸；酸的，酸性的",
+      "example": "Lemon juice is acidic. 柠檬汁是酸性的。"
+    },
+    {
+      "word": "acquaintance",
+      "phonetic": "/əˈkweɪntəns/",
+      "meaning": "认识;了解;熟人",
+      "example": "I met an old acquaintance on the street yesterday. 昨天我在街上遇到了一位老熟人。"
+    },
+    {
+      "word": "acquire",
+      "phonetic": "/əˈkwaɪə/",
+      "meaning": "取得；获得；学到",
+      "example": "She acquired a good knowledge of English through practice. 她通过练习掌握了扎实的英语知识。"
+    },
+    {
+      "word": "acre",
+      "phonetic": "/ˈeɪkə/",
+      "meaning": "英亩(=6.07 亩)",
+      "example": "The farm covers several hundred acres. 这个农场占地数百英亩。"
+    },
+    {
+      "word": "across",
+      "phonetic": "/əˈkrɒs/",
+      "meaning": "横过；在…对面",
+      "example": "We walked across the bridge to the other side. 我们走过桥到了对岸。"
+    },
+    {
+      "word": "act",
+      "phonetic": "/ækt/",
+      "meaning": "法令，条例；行动,（戏）表演,扮演（角色）",
+      "example": "She acted as the leader of the team. 她担任团队的负责人。"
+    },
+    {
+      "word": "action",
+      "phonetic": "/ˈækʃn/",
+      "meaning": "行动，行为，举动",
+      "example": "We need to take immediate action to solve the problem. 我们需要立即采取行动解决这个问题。"
+    },
+    {
+      "word": "active",
+      "phonetic": "/ˈæktɪv/",
+      "meaning": "积极的，主动的",
+      "example": "He is an active participant in social activities. 他是社交活动的积极参与者。"
+    },
+    {
+      "word": "activity",
+      "phonetic": "/ækˈtɪvəti/",
+      "meaning": "活动；活力；行动",
+      "example": "The school organizes various extracurricular activities. 学校组织各种课外活动。"
+    },
+    {
+      "word": "actor",
+      "phonetic": "/ˈæktə/",
+      "meaning": "男演员；演剧的人",
+      "example": "He is a famous actor who has starred in many movies. 他是一位出演过许多电影的著名演员。"
+    },
+    {
+      "word": "actress",
+      "phonetic": "/ˈæktrɪs/",
+      "meaning": "女演员",
+      "example": "The actress won an Oscar for her excellent performance. 这位女演员因出色的表演获得了奥斯卡奖。"
+    },
+    {
+      "word": "actual",
+      "phonetic": "/ˈæktʃuəl/",
+      "meaning": "实际的；现行的",
+      "example": "The actual cost was higher than expected. 实际成本比预期的高。"
+    },
+    {
+      "word": "actually",
+      "phonetic": "/ˈæktʃuəli/",
+      "meaning": "实际上；竟然",
+      "example": "Actually, I don't agree with your opinion. 实际上，我不同意你的观点。"
+    },
+    {
+      "word": "acute",
+      "phonetic": "/əˈkjuːt/",
+      "meaning": "尖的，锐的；敏锐的",
+      "example": "She has an acute sense of smell. 她有敏锐的嗅觉。"
+    },
+    {
+      "word": "ad",
+      "phonetic": "/æd/",
+      "meaning": "广告",
+      "example": "I saw an ad for a new restaurant on TV. 我在电视上看到了一家新餐厅的广告。"
+    },
+    {
+      "word": "adapt",
+      "phonetic": "/əˈdæpt/",
+      "meaning": "使适应；改编",
+      "example": "The novel was adapted into a popular movie. 这部小说被改编成了一部热门电影。"
+    },
+    {
+      "word": "add",
+      "phonetic": "/æd/",
+      "meaning": "添加，附加，掺加",
+      "example": "Add some salt to the soup to make it tastier. 给汤加点盐让它更美味。"
+    },
+    {
+      "word": "addition",
+      "phonetic": "/əˈdɪʃn/",
+      "meaning": "加，加法；附加物",
+      "example": "In addition to English, he also speaks German. 除了英语，他还会说德语。"
+    },
+    {
+      "word": "additional",
+      "phonetic": "/əˈdɪʃənl/",
+      "meaning": "附加的，追加的",
+      "example": "We need additional time to finish the project. 我们需要额外的时间来完成这个项目。"
+    },
+    {
+      "word": "address",
+      "phonetic": "/əˈdres/",
+      "meaning": "地址；演说；谈吐",
+      "example": "Please write down your home address on the form. 请在表格上写下你的家庭地址。"
+    },
+    {
+      "word": "adequate",
+      "phonetic": "/ˈædɪkwət/",
+      "meaning": "足够的；可以胜任的",
+      "example": "The company provides adequate training for new employees. 公司为新员工提供充分的培训。"
+    },
+    {
+      "word": "adjective",
+      "phonetic": "/ˈædʒɪktɪv/",
+      "meaning": "形容词；形容词的",
+      "example": "‘Happy’ is a common adjective. “Happy”是一个常用形容词。"
+    },
+    {
+      "word": "adjust",
+      "phonetic": "/əˈdʒʌst/",
+      "meaning": "调整，调节；校正",
+      "example": "You need to adjust the settings according to your needs. 你需要根据自己的需求调整设置。"
+    },
+    {
+      "word": "administration",
+      "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
+      "meaning": "管理；管理部门",
+      "example": "The school administration is responsible for school affairs. 学校行政部门负责学校事务。"
+    },
+    {
+      "word": "admire",
+      "phonetic": "/ədˈmaɪə/",
+      "meaning": "钦佩，羡慕，赞赏",
+      "example": "I admire her courage and determination. 我钦佩她的勇气和决心。"
+    },
+    {
+      "word": "admission",
+      "phonetic": "/ədˈmɪʃn/",
+      "meaning": "允许进入；承认",
+      "example": "Admission to the museum is free for children. 儿童可免费进入博物馆。"
+    },
+    {
+      "word": "admit",
+      "phonetic": "/ədˈmɪt/",
+      "meaning": "承认；准许…进入",
+      "example": "He finally admitted his mistake. 他最终承认了自己的错误。"
+    },
+    {
+      "word": "adopt",
+      "phonetic": "/əˈdɒpt/",
+      "meaning": "收养；采用；采取",
+      "example": "The company decided to adopt a new policy. 公司决定采用一项新政策。"
+    },
+    {
+      "word": "adult",
+      "phonetic": "/ˈædʌlt/",
+      "meaning": "成年人；成年的",
+      "example": "Adults should take responsibility for their actions. 成年人应该为自己的行为负责。"
+    },
+    {
+      "word": "advance",
+      "phonetic": "/ədˈvɑːns/",
+      "meaning": "前进；提高；进展",
+      "example": "Science has made great advances in recent years. 近年来科学取得了巨大进步。"
+    },
+    {
+      "word": "advanced",
+      "phonetic": "/ədˈvɑːnst/",
+      "meaning": "先进的；高级的",
+      "example": "This is an advanced technology in the field of AI. 这是人工智能领域的一项先进技术。"
+    },
+    {
+      "word": "advantage",
+      "phonetic": "/ədˈvɑːntɪdʒ/",
+      "meaning": "优点，优势；好处",
+      "example": "Being fluent in English is a great advantage in the job market. 英语流利在就业市场上是一个很大的优势。"
+    },
+    {
+      "word": "adventure",
+      "phonetic": "/ədˈventʃə/",
+      "meaning": "冒险；惊险活动",
+      "example": "They went on an adventure trip to the Amazon rainforest. 他们去亚马逊雨林进行了一次冒险旅行。"
+    },
+    {
+      "word": "adverb",
+      "phonetic": "/ˈædvɜːb/",
+      "meaning": "副词",
+      "example": "‘Quickly’ is an adverb that modifies verbs. “Quickly”是一个修饰动词的副词。"
+    },
+    {
+      "word": "advertisement",
+      "phonetic": "/ədˈvɜːtɪsmənt/",
+      "meaning": "广告；公告；登广告",
+      "example": "The advertisement attracted a lot of customers. 这则广告吸引了很多顾客。"
+    },
+    {
+      "word": "advice",
+      "phonetic": "/ədˈvaɪs/",
+      "meaning": "劝告；忠告；意见",
+      "example": "Can you give me some advice on how to learn English well? 你能给我一些如何学好英语的建议吗？"
+    },
+    {
+      "word": "advisable",
+      "phonetic": "/ədˈvaɪzəbl/",
+      "meaning": "明智的；可取的",
+      "example": "It is advisable to start preparing early. 早点开始准备是明智的。"
+    },
+    {
+      "word": "advise",
+      "phonetic": "/ədˈvaɪz/",
+      "meaning": "劝告；建议；通知",
+      "example": "The doctor advised him to rest for a week. 医生建议他休息一周。"
+    },
+    {
+      "word": "aeroplane",
+      "phonetic": "/ˈeəpleɪn/",
+      "meaning": "飞机",
+      "example": "The aeroplane took off on time. 飞机准时起飞了。"
+    },
+    {
+      "word": "affair",
+      "phonetic": "/əˈfeə/",
+      "meaning": "事情，事件；事务",
+      "example": "She is in charge of handling company affairs. 她负责处理公司事务。"
+    },
+    {
+      "word": "affect",
+      "phonetic": "/əˈfekt/",
+      "meaning": "影响；感动",
+      "example": "The bad weather affected the outdoor activity. 恶劣天气影响了户外活动。"
+    },
+    {
+      "word": "affection",
+      "phonetic": "/əˈfekʃn/",
+      "meaning": "慈爱，爱；爱慕",
+      "example": "She has a deep affection for her hometown. 她对家乡有着深厚的感情。"
+    },
+    {
+      "word": "afford",
+      "phonetic": "/əˈfɔːd/",
+      "meaning": "担负得起…；提供",
+      "example": "I can't afford to buy a new car now. 我现在买不起新车。"
+    },
+    {
+      "word": "afraid",
+      "phonetic": "/əˈfreɪd/",
+      "meaning": "害怕的；担心的",
+      "example": "She is afraid of darkness. 她害怕黑暗。"
+    },
+    {
+      "word": "Africa",
+      "phonetic": "/ˈæfrɪkə/",
+      "meaning": "非洲",
+      "example": "Africa is a continent with rich cultural diversity. 非洲是一个文化多样性丰富的大陆。"
+    },
+    {
+      "word": "African",
+      "phonetic": "/ˈæfrɪkən/",
+      "meaning": "非洲的；非洲人",
+      "example": "He is an African student studying in China. 他是一名在中国留学的非洲学生。"
+    },
+    {
+      "word": "after",
+      "phonetic": "/ˈɑːftə/",
+      "meaning": "在…以后；次于",
+      "example": "We will have a meeting after lunch. 午饭后我们要开个会。"
+    },
+    {
+      "word": "afternoon",
+      "phonetic": "/ˌɑːftəˈnuːn/",
+      "meaning": "下午，午后",
+      "example": "I will visit you this afternoon. 我今天下午去看你。"
+    },
+    {
+      "word": "afterward",
+      "phonetic": "/ˈɑːftəwəd/",
+      "meaning": "后来，以后",
+      "example": "We met at the party and talked afterward. 我们在派对上相遇，之后聊了起来。"
+    },
+    {
+      "word": "again",
+      "phonetic": "/əˈɡen/",
+      "meaning": "又一次；而且",
+      "example": "Please read the text again carefully. 请再仔细读一遍课文。"
+    },
+    {
+      "word": "against",
+      "phonetic": "/əˈɡenst/",
+      "meaning": "倚在；逆，对着",
+      "example": "He leaned against the wall and rested. 他靠在墙上休息。"
+    },
+    {
+      "word": "age",
+      "phonetic": "/eɪdʒ/",
+      "meaning": "年龄；时代；变老",
+      "example": "With age, people's perspectives may change. 随着年龄增长，人们的看法可能会改变。"
+    },
+    {
+      "word": "agency",
+      "phonetic": "/ˈeɪdʒənsi/",
+      "meaning": "经办；代理；代理处",
+      "example": "We booked the ticket through a travel agency. 我们通过旅行社订了票。"
+    },
+    {
+      "word": "agent",
+      "phonetic": "/ˈeɪdʒənt/",
+      "meaning": "代理人，代理商",
+      "example": "My insurance agent helped me choose a suitable plan. 我的保险代理人帮我选了一个合适的保险计划。"
+    },
+    {
+      "word": "aggressive",
+      "phonetic": "/əˈɡresɪv/",
+      "meaning": "侵略的；好斗的",
+      "example": "He has an aggressive personality and often argues with others. 他性格好斗，经常和别人争论。"
+    },
+    {
+      "word": "ago",
+      "phonetic": "/əˈɡəʊ/",
+      "meaning": "以前",
+      "example": "I met her three years ago. 我三年前见过她。"
+    },
+    {
+      "word": "agony",
+      "phonetic": "/ˈæɡəni/",
+      "meaning": "极度痛苦",
+      "example": "She cried out in agony when she hurt her leg. 她伤到腿时痛苦地大叫。"
+    },
+    {
+      "word": "agree",
+      "phonetic": "/əˈɡriː/",
+      "meaning": "同意；持相同意见",
+      "example": "We all agree to the new plan. 我们都同意这个新计划。"
+    },
+    {
+      "word": "agreement",
+      "phonetic": "/əˈɡriːmənt/",
+      "meaning": "协定，协议；同意",
+      "example": "We reached an agreement after hours of negotiation. 经过几个小时的谈判，我们达成了协议。"
+    },
+    {
+      "word": "agriculture",
+      "phonetic": "/ˈæɡrɪkʌltʃə/",
+      "meaning": "农业，农艺；农学",
+      "example": "Agriculture is the foundation of the national economy. 农业是国民经济的基础。"
+    },
+    {
+      "word": "ahead",
+      "phonetic": "/əˈhed/",
+      "meaning": "在前；向前；提前",
+      "example": "We need to plan ahead for the future. 我们需要为未来提前规划。"
+    },
+    {
+      "word": "aid",
+      "phonetic": "/eɪd/",
+      "meaning": "帮助，救护；助手",
+      "example": "The government provided aid to the disaster-stricken area. 政府向灾区提供了援助。"
+    },
+    {
+      "word": "aim",
+      "phonetic": "/eɪm/",
+      "meaning": "瞄准，针对；致力",
+      "example": "His aim is to become a successful scientist. 他的目标是成为一名成功的科学家。"
+    },
+    {
+      "word": "air",
+      "phonetic": "/eə/",
+      "meaning": "空气；空中；外观",
+      "example": "The air in the mountains is very fresh. 山里的空气非常清新。"
+    },
+    {
+      "word": "aircraft",
+      "phonetic": "/ˈeəkrɑːft/",
+      "meaning": "飞机，飞行器",
+      "example": "The airport has a variety of aircraft. 这个机场有各种各样的飞行器。"
+    },
+    {
+      "word": "airline",
+      "phonetic": "/ˈeəlaɪn/",
+      "meaning": "航空公司；航线",
+      "example": "Which airline do you prefer to fly with? 你更喜欢乘坐哪家航空公司的飞机？"
+    },
+    {
+      "word": "airplane",
+      "phonetic": "/ˈeəpleɪn/",
+      "meaning": "飞机",
+      "example": "The airplane landed safely at the airport. 飞机安全降落在机场。"
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meaning": "航空站,飞机场",
+      "example": "We arrived at the airport early to avoid missing the flight. 我们早早到达机场以免误机。"
+    },
+    {
+      "word": "alarm",
+      "phonetic": "/əˈlɑːm/",
+      "meaning": "惊恐，忧虑；警报",
+      "example": "The fire alarm went off suddenly. 火警突然响了起来。"
+    },
+    {
+      "word": "alcohol",
+      "phonetic": "/ˈælkəhɒl/",
+      "meaning": "酒精，乙醇",
+      "example": "Drinking alcohol is harmful to health. 饮酒有害健康。"
+    },
+    {
+      "word": "alike",
+      "phonetic": "/əˈlaɪk/",
+      "meaning": "同样的，相同的",
+      "example": "The two sisters look very alike. 这两姐妹长得非常像。"
+    },
+    {
+      "word": "alive",
+      "phonetic": "/əˈlaɪv/",
+      "meaning": "活着的；活跃的",
+      "example": "He is lucky to be alive after the accident. 事故后他能活下来真是幸运。"
+    },
+    {
+      "word": "all",
+      "phonetic": "/ɔːl/",
+      "meaning": "全部的；全部",
+      "example": "All students must finish the homework on time. 所有学生都必须按时完成作业。"
+    },
+    {
+      "word": "allow",
+      "phonetic": "/əˈlaʊ/",
+      "meaning": "允许，准许；任",
+      "example": "My parents don't allow me to stay out late. 我父母不允许我在外待到很晚。"
+    },
+    {
+      "word": "alloy",
+      "phonetic": "/ˈælɔɪ/",
+      "meaning": "合金；(金属的)成色",
+      "example": "This ring is made of a gold alloy. 这枚戒指是由金合金制成的。"
+    },
+    {
+      "word": "almost",
+      "phonetic": "/ˈɔːlməʊst/",
+      "meaning": "几乎，差不多",
+      "example": "It's almost time to leave. 差不多该走了。"
+    },
+    {
+      "word": "alone",
+      "phonetic": "/əˈləʊn/",
+      "meaning": "单独的；单独地",
+      "example": "She likes to be alone in her room. 她喜欢一个人待在房间里。"
+    },
+    {
+      "word": "along",
+      "phonetic": "/əˈlɒŋ/",
+      "meaning": "沿着；向前",
+      "example": "We walked along the river bank. 我们沿着河岸散步。"
+    },
+    {
+      "word": "aloud",
+      "phonetic": "/əˈlaʊd/",
+      "meaning": "出声地，大声地",
+      "example": "Please read the passage aloud. 请大声朗读这篇文章。"
+    },
+    {
+      "word": "alphabet",
+      "phonetic": "/ˈælfəbet/",
+      "meaning": "字母表，字母系统",
+      "example": "Children learn the alphabet at an early age. 孩子们很小就学习字母表。"
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredi/",
+      "meaning": "早已，已经",
+      "example": "I have already finished my work. 我已经完成工作了。"
+    },
+    {
+      "word": "also",
+      "phonetic": "/ˈɔːlsəʊ/",
+      "meaning": "亦，也；而且，还",
+      "example": "She is good at singing and also plays the piano well. 她擅长唱歌，钢琴也弹得很好。"
+    },
+    {
+      "word": "alter",
+      "phonetic": "/ˈɔːltə/",
+      "meaning": "改变，变更；改做",
+      "example": "He decided to alter his plan due to the bad weather. 由于天气不好，他决定改变计划。"
+    },
+    {
+      "word": "alternative",
+      "phonetic": "/ɔːlˈtɜːnətɪv/",
+      "meaning": "替换物；取舍，抉择",
+      "example": "We have no alternative but to accept the terms. 我们别无选择，只能接受这些条款。"
+    },
+    {
+      "word": "although",
+      "phonetic": "/ɔːlˈðəʊ/",
+      "meaning": "尽管，虽然",
+      "example": "Although he is young, he is very experienced. 尽管他很年轻，但经验非常丰富。"
+    },
+    {
+      "word": "altitude",
+      "phonetic": "/ˈæltɪtjuːd/",
+      "meaning": "高，高度；高处",
+      "example": "The plane flew at an altitude of 10,000 meters. 飞机在10000米的高度飞行。"
+    },
+    {
+      "word": "altogether",
+      "phonetic": "/ˌɔːltəˈɡeðə/",
+      "meaning": "完全；总而言之",
+      "example": "Altogether, it was a great trip. 总的来说，这是一次很棒的旅行。"
+    },
+    {
+      "word": "aluminium",
+      "phonetic": "/ˌæljuːˈmɪniəm/",
+      "meaning": "铝",
+      "example": "This ladder is made of aluminium. 这架梯子是铝制的。"
+    },
+    {
+      "word": "always",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meaning": "总是，一直；永远",
+      "example": "He always gets up early in the morning. 他早上总是起得很早。"
+    },
+    {
+      "word": "a.m",
+      "phonetic": "/ˌeɪˈem/",
+      "meaning": "午前，上午",
+      "example": "The meeting starts at 9 a.m. 会议上午9点开始。"
+    },
+    {
+      "word": "amaze",
+      "phonetic": "/əˈmeɪz/",
+      "meaning": "使惊奇，使惊愕",
+      "example": "I was amazed by his wonderful performance. 他精彩的表演让我感到惊讶。"
+    },
+    {
+      "word": "ambition",
+      "phonetic": "/æmˈbɪʃn/",
+      "meaning": "雄心，抱负，野心",
+      "example": "His ambition is to become a world-famous writer. 他的雄心是成为一名世界著名的作家。"
+    },
+    {
+      "word": "ambulance",
+      "phonetic": "/ˈæmbjələns/",
+      "meaning": "救护车；野战医院",
+      "example": "An ambulance rushed the patient to the hospital. 救护车把病人紧急送往医院。"
+    },
+    {
+      "word": "America",
+      "phonetic": "/əˈmerɪkə/",
+      "meaning": "美洲；美国",
+      "example": "America is a large country with diverse cultures. 美国是一个文化多元的大国。"
+    },
+    {
+      "word": "American",
+      "phonetic": "/əˈmerɪkən/",
+      "meaning": "美洲的；美国人",
+      "example": "She is an American who has lived in China for 10 years. 她是一名在美国生活了10年的美国人。"
+    },
+    {
+      "word": "among",
+      "phonetic": "/əˈmʌŋ/",
+      "meaning": "在…之中",
+      "example": "He is popular among his classmates. 他在同学中很受欢迎。"
+    },
+    {
+      "word": "amongst",
+      "phonetic": "/əˈmʌŋst/",
+      "meaning": "在…之中(=among)",
+      "example": "There is a diamond amongst the stones. 石头中有一颗钻石。"
+    },
+    {
+      "word": "amount",
+      "phonetic": "/əˈmaʊnt/",
+      "meaning": "总数；数量；和",
+      "example": "The amount of work is too much for me. 工作量对我来说太大了。"
+    },
+    {
+      "word": "ampere",
+      "phonetic": "/ˈæmpeə/",
+      "meaning": "安培",
+      "example": "The current is measured in amperes. 电流以安培为单位计量。"
+    },
+    {
+      "word": "amplify",
+      "phonetic": "/ˈæmplɪfaɪ/",
+      "meaning": "放大，增强；扩大",
+      "example": "The speaker amplified his voice so that everyone could hear. 演讲者放大了声音，让每个人都能听到。"
+    },
+    {
+      "word": "amuse",
+      "phonetic": "/əˈmjuːz/",
+      "meaning": "逗…乐；给…娱乐",
+      "example": "The funny story amused all the children. 这个有趣的故事逗乐了所有孩子。"
+    },
+    {
+      "word": "analyse",
+      "phonetic": "/ˈænəlaɪz/",
+      "meaning": "分析，分解，解析",
+      "example": "We need to analyse the data carefully. 我们需要仔细分析这些数据。"
+    },
+    {
+      "word": "analysis",
+      "phonetic": "/əˈnæləsɪs/",
+      "meaning": "分析，分解，解析",
+      "example": "The analysis of the sample showed positive results. 对样本的分析显示出阳性结果。"
+    },
+    {
+      "word": "ancestor",
+      "phonetic": "/ˈænsestə/",
+      "meaning": "祖宗，祖先",
+      "example": "We should remember our ancestors' contributions. 我们应该铭记祖先的贡献。"
+    },
+    {
+      "word": "anchor",
+      "phonetic": "/ˈæŋkə/",
+      "meaning": "锚；抛锚，停泊",
+      "example": "The ship dropped anchor in the harbor. 船在港口抛锚停泊。"
+    },
+    {
+      "word": "ancient",
+      "phonetic": "/ˈeɪnʃənt/",
+      "meaning": "古代的，古老的",
+      "example": "There are many ancient buildings in this city. 这座城市有很多古建筑。"
+    },
+    {
+      "word": "and",
+      "phonetic": "/ænd/",
+      "meaning": "和，又，并，则",
+      "example": "I like coffee and tea. 我喜欢咖啡和茶。"
+    },
+    {
+      "word": "angel",
+      "phonetic": "/ˈeɪndʒəl/",
+      "meaning": "天使，神差，安琪儿",
+      "example": "She is like an angel to the homeless children. 对无家可归的孩子来说，她就像天使一样。"
+    },
+    {
+      "word": "anger",
+      "phonetic": "/ˈæŋɡə/",
+      "meaning": "怒，愤怒；使发怒",
+      "example": "His rude words filled her with anger. 他粗鲁的话语让她充满愤怒。"
+    },
+    {
+      "word": "angle",
+      "phonetic": "/ˈæŋɡl/",
+      "meaning": "角，角度",
+      "example": "The two lines form a right angle. 这两条线形成一个直角。"
+    },
+    {
+      "word": "angry",
+      "phonetic": "/ˈæŋɡri/",
+      "meaning": "生气的，愤怒的",
+      "example": "My mother was angry with me for being late. 我妈妈因为我迟到而生气。"
+    },
+    {
+      "word": "animal",
+      "phonetic": "/ˈænɪməl/",
+      "meaning": "动物，兽；动物的",
+      "example": "We should protect wild animals. 我们应该保护野生动物。"
+    },
+    {
+      "word": "ankle",
+      "phonetic": "/ˈæŋkl/",
+      "meaning": "踝，踝节部",
+      "example": "She twisted her ankle while running. 她跑步时扭伤了脚踝。"
+    },
+    {
+      "word": "announce",
+      "phonetic": "/əˈnaʊns/",
+      "meaning": "宣布，宣告，发表",
+      "example": "The government announced a new policy. 政府宣布了一项新政策。"
+    },
+    {
+      "word": "announcer",
+      "phonetic": "/əˈnaʊnsə/",
+      "meaning": "宣告者；播音员",
+      "example": "The news announcer reported the latest events. 新闻播音员报道了最新事件。"
+    },
+    {
+      "word": "annoy",
+      "phonetic": "/əˈnɔɪ/",
+      "meaning": "使恼怒；打搅",
+      "example": "The noise from the next room annoyed me. 隔壁房间的噪音让我很恼火。"
+    },
+    {
+      "word": "annual",
+      "phonetic": "/ˈænjuəl/",
+      "meaning": "每年的；年报",
+      "example": "The company holds an annual meeting every December. 公司每年12月举行一次年会。"
+    },
+    {
+      "word": "another",
+      "phonetic": "/əˈnʌðə/",
+      "meaning": "再一个的；别的；另一个",
+      "example": "Can you give me another cup of water? 你能再给我一杯水吗？"
+    },
+    {
+      "word": "answer",
+      "phonetic": "/ˈɑːnsə/",
+      "meaning": "回答,答复;答案；回答,答复;（作出）答案",
+      "example": "Please answer my question honestly. 请诚实地回答我的问题。"
+    },
+    {
+      "word": "ant",
+      "phonetic": "/ænt/",
+      "meaning": "蚂蚁",
+      "example": "There are many ants on the ground. 地上有很多蚂蚁。"
+    },
+    {
+      "word": "anticipate",
+      "phonetic": "/ænˈtɪsɪpeɪt/",
+      "meaning": "预料，预期，期望",
+      "example": "We didn't anticipate such a big problem. 我们没有预料到会出现这么大的问题。"
+    },
+    {
+      "word": "anxiety",
+      "phonetic": "/æŋˈzaɪəti/",
+      "meaning": "焦虑，忧虑；渴望",
+      "example": "She felt a lot of anxiety before the exam. 考试前她感到非常焦虑。"
+    },
+    {
+      "word": "anxious",
+      "phonetic": "/ˈæŋkʃəs/",
+      "meaning": "忧虑的；渴望的",
+      "example": "He is anxious to know the result of the exam. 他急于知道考试结果。"
+    },
+    {
+      "word": "any",
+      "phonetic": "/ˈeni/",
+      "meaning": "什么，一些；任何的",
+      "example": "Do you have any questions? 你有什么问题吗？"
+    },
+    {
+      "word": "anybody",
+      "phonetic": "/ˈenibɒdi/",
+      "meaning": "任何人",
+      "example": "Anybody can join the club. 任何人都可以加入这个俱乐部。"
+    },
+    {
+      "word": "anyhow",
+      "phonetic": "/ˈenihaʊ/",
+      "meaning": "无论如何",
+      "example": "Anyhow, we have to finish the work today. 无论如何，我们今天必须完成这项工作。"
+    },
+    {
+      "word": "anyone",
+      "phonetic": "/ˈeniwʌn/",
+      "meaning": "任何人，无论谁",
+      "example": "Is anyone here? 这里有人吗？"
+    },
+    {
+      "word": "anything",
+      "phonetic": "/ˈeniθɪŋ/",
+      "meaning": "什么事（物）；任何事（物）",
+      "example": "I didn't say anything about it. 我对此什么也没说。"
+    },
+    {
+      "word": "anyway",
+      "phonetic": "/ˈeniwei/",
+      "meaning": "无论如何",
+      "example": "Anyway, thank you for your help. 无论如何，谢谢你的帮助。"
+    },
+    {
+      "word": "anywhere",
+      "phonetic": "/ˈeniweə/",
+      "meaning": "在什么地方",
+      "example": "You can go anywhere you like. 你可以去任何你想去的地方。"
+    },
+    {
+      "word": "apart",
+      "phonetic": "/əˈpɑːt/",
+      "meaning": "相隔；分开；除去",
+      "example": "The two cities are 100 kilometers apart. 这两个城市相距100公里。"
+    },
+    {
+      "word": "apartment",
+      "phonetic": "/əˈpɑːtmənt/",
+      "meaning": "一套公寓房间",
+      "example": "He lives in a small apartment in the city center. 他住在市中心的一套小公寓里。"
+    },
+    {
+      "word": "apologize",
+      "phonetic": "/əˈpɒlədʒaɪz/",
+      "meaning": "道歉，谢罪，认错",
+      "example": "You should apologize to her for your mistake. 你应该为你的错误向她道歉。"
+    },
+    {
+      "word": "apology",
+      "phonetic": "/əˈpɒlədʒi/",
+      "meaning": "道歉，认错，谢罪",
+      "example": "He offered a sincere apology for his rudeness. 他为自己的粗鲁行为诚恳地道歉。"
+    },
+    {
+      "word": "apparatus",
+      "phonetic": "/ˌæpəˈreɪtəs/",
+      "meaning": "器械，仪器；器官",
+      "example": "The lab is equipped with advanced apparatus. 这个实验室配备了先进的仪器。"
+    },
+    {
+      "word": "apparent",
+      "phonetic": "/əˈpærənt/",
+      "meaning": "表面上的；明显的",
+      "example": "It is apparent that he is lying. 很明显他在撒谎。"
+    },
+    {
+      "word": "appeal",
+      "phonetic": "/əˈpiːl/",
+      "meaning": "呼吁；申述",
+      "example": "The charity appealed for donations. 这个慈善机构呼吁捐款。"
+    },
+    {
+      "word": "appear",
+      "phonetic": "/əˈpɪə/",
+      "meaning": "出现；来到；似乎",
+      "example": "A rainbow appeared after the rain. 雨后出现了一道彩虹。"
+    },
+    {
+      "word": "appearance",
+      "phonetic": "/əˈpɪərəns/",
+      "meaning": "出现，来到；外观",
+      "example": "She pays great attention to her appearance. 她非常注重自己的外表。"
+    },
+    {
+      "word": "appetite",
+      "phonetic": "/ˈæpətaɪt/",
+      "meaning": "食欲，胃口；欲望",
+      "example": "Exercise gives me a good appetite. 运动让我胃口大开。"
+    },
+    {
+      "word": "apple",
+      "phonetic": "/ˈæpl/",
+      "meaning": "苹果，苹果树",
+      "example": "I eat an apple every day for breakfast. 我每天早餐吃一个苹果。"
+    }
+  ],
+  "日常沟通": [
+    {
+      "word": "others",
+      "phonetic": "",
+      "meaning": "其他人",
+      "example": "Others may disagree, but I think it's a good idea. 其他人可能有不同意见，但我觉得这是个好主意。"
+    },
+    {
+      "word": "oh",
+      "phonetic": "/əu/",
+      "meaning": "哦（表示惊讶、恐怖、赞叹）",
+      "example": "Oh, I didn't expect to see you here! 哦，真没想到会在这里见到你！"
+    },
+    {
+      "word": "according",
+      "phonetic": "/əˈkɔːdiŋ/",
+      "meaning": "相符的；根据...而定的；相应地",
+      "example": "According to the plan, we'll meet at 9 a.m. 按照计划，我们上午9点见面。"
+    },
+    {
+      "word": "true",
+      "phonetic": "/truː/",
+      "meaning": "真实的；正确的；忠诚的；真实；准确",
+      "example": "Is it true that you're moving to Beijing? 你要搬到北京去，是真的吗？"
+    },
+    {
+      "word": "exactly",
+      "phonetic": "/ɪɡˈzæktli/",
+      "meaning": "确切地；精确地；恰好；完全地；确实",
+      "example": "That's exactly what I was thinking! 那正是我在想的！"
+    },
+    {
+      "word": "OK",
+      "phonetic": "/ˈəʊˈkeɪ/",
+      "meaning": "好；不错；可以；批准；认可",
+      "example": "OK, let's start our meeting now. 好的，我们现在开始开会吧。"
+    },
+    {
+      "word": "directly",
+      "phonetic": "/dəˈrektli, daɪˈrektli/",
+      "meaning": "径直地；直率地；正好地；立即；一...就...",
+      "example": "Go directly to the office and don't stop. 直接去办公室，别停下来。"
+    },
+    {
+      "word": "completely",
+      "phonetic": "/kəmˈpliːtli/",
+      "meaning": "完全地；十分地；圆满地",
+      "example": "I completely forgot about our appointment. 我完全忘了我们的约会。"
+    },
+    {
+      "word": "slowly",
+      "phonetic": "/ˈsləuli/",
+      "meaning": "慢慢地；迟缓地",
+      "example": "Please speak slowly so I can follow you. 请说慢一点，我好跟上你。"
+    },
+    {
+      "word": "fully",
+      "phonetic": "/ˈfʊli/",
+      "meaning": "十分地；完全地；充分地",
+      "example": "I fully understand your concerns. 我完全理解你的顾虑。"
+    },
+    {
+      "word": "lots",
+      "phonetic": "/lɒts/",
+      "meaning": "大量；许多",
+      "example": "There are lots of books in the library. 图书馆里有很多书。"
+    },
+    {
+      "word": "carefully",
+      "phonetic": "/ˈkeəfəli/",
+      "meaning": "小心地；谨慎地",
+      "example": "Drive carefully on the rainy day. 雨天开车要小心。"
+    },
+    {
+      "word": "married",
+      "phonetic": "/ˈmærid/",
+      "meaning": "已婚的；婚姻的；夫妇的",
+      "example": "They've been married for five years. 他们结婚五年了。"
+    },
+    {
+      "word": "thanks",
+      "phonetic": "",
+      "meaning": "感谢；谢意；谢谢",
+      "example": "Thanks for helping me with my homework. 谢谢你帮我辅导作业。"
+    },
+    {
+      "word": "anymore",
+      "phonetic": "/ˈeniˈmɔː/",
+      "meaning": "再也不；不再",
+      "example": "I don't eat fast food anymore. 我再也不吃快餐了。"
+    },
+    {
+      "word": "ought",
+      "phonetic": "/ɔːt/",
+      "meaning": "应该；大概；责任",
+      "example": "You ought to call your parents more often. 你应该多给父母打电话。"
+    },
+    {
+      "word": "extremely",
+      "phonetic": "/ɪkˈstriːmli/",
+      "meaning": "极端地；非常地",
+      "example": "The movie is extremely interesting. 这部电影非常有趣。"
+    },
+    {
+      "word": "English",
+      "phonetic": "/ˈɪŋɡlɪʃ/",
+      "meaning": "英语；英文的；英国人的",
+      "example": "I speak English with my foreign friends. 我和外国朋友说英语。"
+    },
+    {
+      "word": "frequently",
+      "phonetic": "/ˈfriːkwəntli/",
+      "meaning": "频繁地；经常地",
+      "example": "He frequently goes to the gym after work. 他下班后经常去健身房。"
+    },
+    {
+      "word": "entirely",
+      "phonetic": "/ɪnˈtaɪəli/",
+      "meaning": "完全；全然；一概",
+      "example": "The plan is entirely different from mine. 这个计划和我的完全不一样。"
+    },
+    {
+      "word": "bedroom",
+      "phonetic": "/ˈbedruːm/",
+      "meaning": "卧室",
+      "example": "My bedroom is on the second floor. 我的卧室在二楼。"
+    },
+    {
+      "word": "seriously",
+      "phonetic": "/ˈsɪəriəsli/",
+      "meaning": "严肃地；认真地；严重地",
+      "example": "You should take this matter seriously. 你应该认真对待这件事。"
+    },
+    {
+      "word": "totally",
+      "phonetic": "/ˈtəʊtəli/",
+      "meaning": "完全地",
+      "example": "I totally agree with your decision. 我完全同意你的决定。"
+    },
+    {
+      "word": "surprised",
+      "phonetic": "/səˈpraɪzd/",
+      "meaning": "感到惊讶的",
+      "example": "I'm surprised to hear the good news. 听到这个好消息我很惊讶。"
+    },
+    {
+      "word": "fewer",
+      "phonetic": "/ˈfjuːə/",
+      "meaning": "较少的",
+      "example": "There are fewer people in the park today. 今天公园里的人少一些。"
+    },
+    {
+      "word": "typically",
+      "phonetic": "/ˈtɪpɪkəli/",
+      "meaning": "代表性地；作为特色地",
+      "example": "She typically gets up at 7 a.m. 她通常早上7点起床。"
+    },
+    {
+      "word": "unusual",
+      "phonetic": "/ˌʌnˈjuːʒuːl/",
+      "meaning": "不寻常的；罕见的；与众不同的",
+      "example": "It's unusual for him to be late. 他迟到是很不寻常的。"
+    },
+    {
+      "word": "closely",
+      "phonetic": "/ˈkləʊsli/",
+      "meaning": "接近地",
+      "example": "Watch closely how I do this. 仔细看我是怎么做的。"
+    },
+    {
+      "word": "childhood",
+      "phonetic": "/ˈtʃaɪldhʊd/",
+      "meaning": "孩童时期",
+      "example": "I have happy memories of my childhood. 我有快乐的童年回忆。"
+    },
+    {
+      "word": "widely",
+      "phonetic": "/ˈwaɪdli/",
+      "meaning": "广泛地",
+      "example": "This book is widely read around the world. 这本书在全世界广泛流传。"
+    },
+    {
+      "word": "Spanish",
+      "phonetic": "/ˈspænɪʃ/",
+      "meaning": "西班牙人；西班牙语；西班牙的",
+      "example": "She is learning Spanish online. 她在网上学西班牙语。"
+    },
+    {
+      "word": "essentially",
+      "phonetic": "/ɪˈsenʃəli/",
+      "meaning": "本质上；本来",
+      "example": "The two methods are essentially the same. 这两种方法本质上是一样的。"
+    },
+    {
+      "word": "previously",
+      "phonetic": "/ˈpriːviəsli/",
+      "meaning": "先；先前；以前",
+      "example": "I had met her previously at a party. 我之前在一个派对上见过她。"
+    },
+    {
+      "word": "maker",
+      "phonetic": "/ˈmeɪkə/",
+      "meaning": "制造者；出票人",
+      "example": "He is the maker of this handcrafted gift. 他是这件手工礼物的制作者。"
+    },
+    {
+      "word": "Asian",
+      "phonetic": "/ˈeɪʃən/",
+      "meaning": "亚洲人；亚洲的；亚洲人的",
+      "example": "Many Asian festivals are very interesting. 很多亚洲节日都很有趣。"
+    },
+    {
+      "word": "heavily",
+      "phonetic": "/ˈhevɪli/",
+      "meaning": "很重地；严重地；难以忍受地",
+      "example": "It's raining heavily outside. 外面雨下得很大。"
+    },
+    {
+      "word": "strongly",
+      "phonetic": "/ˈstrɒŋli/",
+      "meaning": "强有力地；坚强地；激烈地",
+      "example": "I strongly recommend this restaurant. 我强烈推荐这家餐厅。"
+    },
+    {
+      "word": "surely",
+      "phonetic": "/ˈʃʊəli/",
+      "meaning": "的确地；安全地",
+      "example": "Surely you can finish this on time. 你肯定能按时完成这个。"
+    },
+    {
+      "word": "perfectly",
+      "phonetic": "/ˈpɜːfɪktli/",
+      "meaning": "完全地；无瑕疵地；完整地",
+      "example": "The plan works perfectly. 这个计划实施得非常完美。"
+    },
+    {
+      "word": "unlike",
+      "phonetic": "/ˌʌnˈlaɪk/",
+      "meaning": "不像的；不同的；不像；和...不同",
+      "example": "Unlike his brother, he likes quiet places. 和他哥哥不同，他喜欢安静的地方。"
+    },
+    {
+      "word": "viewer",
+      "phonetic": "/ˈvjuːə/",
+      "meaning": "观察者；看电视者；视察员",
+      "example": "The program has millions of viewers. 这个节目有数百万观众。"
+    },
+    {
+      "word": "false",
+      "phonetic": "/fɔːls/",
+      "meaning": "错误的；虚伪的；假的；不老实的",
+      "example": "Don't spread false information. 不要传播虚假信息。"
+    },
+    {
+      "word": "Latin",
+      "phonetic": "/ˈlætin/",
+      "meaning": "拉丁人；拉丁语；拉丁人的；拉丁语的",
+      "example": "Some English words come from Latin. 有些英语单词来自拉丁语。"
+    },
+    {
+      "word": "rapidly",
+      "phonetic": "/ˈræpɪdli/",
+      "meaning": "飞快地；迅速地；赶紧地",
+      "example": "The city is growing rapidly. 这座城市发展得很快。"
+    },
+    {
+      "word": "quietly",
+      "phonetic": "/ˈkwaɪətli/",
+      "meaning": "安静地；沉着地；秘密地",
+      "example": "She walked quietly into the room. 她悄悄地走进了房间。"
+    },
+    {
+      "word": "effectively",
+      "phonetic": "/ɪˈfektɪvli/",
+      "meaning": "有效地；有力地；实际上",
+      "example": "We need to solve the problem effectively. 我们需要有效地解决这个问题。"
+    },
+    {
+      "word": "armed",
+      "phonetic": "/ɑːmd/",
+      "meaning": "有扶手的；武装的；有防卫器官的",
+      "example": "The police officer is armed with a gun. 这位警察配备了枪支。"
+    },
+    {
+      "word": "Italian",
+      "phonetic": "/ɪˈtæliən/",
+      "meaning": "意大利人；意大利语；意大利的；意大利语的",
+      "example": "I like Italian food very much. 我非常喜欢意大利菜。"
+    },
+    {
+      "word": "lost",
+      "phonetic": "/lɒst/",
+      "meaning": "失去的；遗失的；迷惑的（lose的过去式和过去分词）",
+      "example": "I got lost in the big city. 我在大城市里迷路了。"
+    },
+    {
+      "word": "unlikely",
+      "phonetic": "/ˌʌnˈlaɪkli/",
+      "meaning": "不太可能的",
+      "example": "It's unlikely that he will come today. 他今天不太可能来。"
+    },
+    {
+      "word": "broken",
+      "phonetic": "/ˈbrəʊkən/",
+      "meaning": "坏掉的；打破的；断掉的（break的过去分词）",
+      "example": "My phone screen is broken. 我的手机屏幕碎了。"
+    },
+    {
+      "word": "Olympic",
+      "phonetic": "/əʊˈlɪmpɪk/",
+      "meaning": "奥林匹亚的；奥林匹斯山的；强有力的；巨大的",
+      "example": "The Olympic Games are held every four years. 奥运会每四年举办一次。"
+    },
+    {
+      "word": "bible",
+      "phonetic": "/ˈbaɪbl/",
+      "meaning": "圣经",
+      "example": "He reads the Bible every morning. 他每天早上读圣经。"
+    },
+    {
+      "word": "gently",
+      "phonetic": "/ˈdʒentli/",
+      "meaning": "温和地；温柔地；轻轻地；逐渐地",
+      "example": "She touched the baby gently. 她轻轻地抚摸着宝宝。"
+    },
+    {
+      "word": "lifetime",
+      "phonetic": "/ˈlaɪftaɪm/",
+      "meaning": "一生；终生；一生的；终生的",
+      "example": "It's a once-in-a-lifetime opportunity. 这是一个千载难逢的机会。"
+    },
+    {
+      "word": "similarly",
+      "phonetic": "/ˈsɪmɪləli/",
+      "meaning": "相像地；类似于",
+      "example": "Similarly, we need to prepare well. 同样地，我们需要做好准备。"
+    },
+    {
+      "word": "newly",
+      "phonetic": "/ˈnjuːli/",
+      "meaning": "重新；最近",
+      "example": "They just moved into a newly decorated house. 他们刚搬进装修一新的房子。"
+    },
+    {
+      "word": "mainly",
+      "phonetic": "/ˈmeɪnli/",
+      "meaning": "主要地；大抵",
+      "example": "The shop sells mainly fruits and vegetables. 这家店主要卖水果和蔬菜。"
+    },
+    {
+      "word": "regularly",
+      "phonetic": "/ˈregjələrli/",
+      "meaning": "有规则地；一丝不苟地；正式地",
+      "example": "You should exercise regularly to keep fit. 你应该定期锻炼保持健康。"
+    },
+    {
+      "word": "shooting",
+      "phonetic": "/ˈʃuːtɪŋ/",
+      "meaning": "发射；猎场；射击",
+      "example": "There's a shooting competition this weekend. 这个周末有一场射击比赛。"
+    },
+    {
+      "word": "unknown",
+      "phonetic": "/ˌʌnˈnəʊn/",
+      "meaning": "不知道的；未知的；陌生的；未知物；未知数",
+      "example": "The author of this book is unknown. 这本书的作者不详。"
+    },
+    {
+      "word": "potentially",
+      "phonetic": "/pəˈtenʃəli/",
+      "meaning": "可能地；潜在地",
+      "example": "This method is potentially dangerous. 这种方法有潜在危险。"
+    },
+    {
+      "word": "properly",
+      "phonetic": "/ˈprɒpəli/",
+      "meaning": "适当地；相当地",
+      "example": "Make sure you wash your hands properly. 确保你正确洗手。"
+    },
+    {
+      "word": "Irish",
+      "phonetic": "/ˈaɪrɪʃ/",
+      "meaning": "爱尔兰人；爱尔兰语；爱尔兰的",
+      "example": "Her father is of Irish descent. 她父亲有爱尔兰血统。"
+    },
+    {
+      "word": "scared",
+      "phonetic": "/skeəd/",
+      "meaning": "害怕的；担惊受怕的；惊慌的；吓坏了的",
+      "example": "The little girl is scared of thunder. 小女孩害怕打雷。"
+    },
+    {
+      "word": "briefly",
+      "phonetic": "/ˈbriːfli/",
+      "meaning": "简短地；扼要地；简明地；简单地",
+      "example": "He explained the plan briefly. 他简要地解释了这个计划。"
+    },
+    {
+      "word": "closer",
+      "phonetic": "/ˈkləʊzə/",
+      "meaning": "关闭者；闭合器；关闭器",
+      "example": "Can you move a little closer? 你能靠近一点吗？"
+    },
+    {
+      "word": "fighter",
+      "phonetic": "/ˈfaɪtə/",
+      "meaning": "斗士；战士；好战者；战斗机",
+      "example": "He is a brave fighter for justice. 他是一位勇敢的正义斗士。"
+    },
+    {
+      "word": "publisher",
+      "phonetic": "/ˈpʌblɪʃə/",
+      "meaning": "发行人；出版者；报刊发行者",
+      "example": "The publisher will release the new book next month. 出版社下个月将发行这本新书。"
+    },
+    {
+      "word": "French",
+      "phonetic": "/frentʃ/",
+      "meaning": "法国人；法文；法式；法国的；法国人的；法语的",
+      "example": "French bread is very popular here. 法式面包在这里很受欢迎。"
+    },
+    {
+      "word": "etc",
+      "phonetic": "",
+      "meaning": "及其他；等等",
+      "example": "We need to buy milk, eggs, bread, etc. 我们需要买牛奶、鸡蛋、面包等等。"
+    },
+    {
+      "word": "bombing",
+      "phonetic": "/ˈbɒmɪŋ/",
+      "meaning": "轰炸；投弹",
+      "example": "The news reported a bombing incident in the city. 新闻报道了该市发生的一起轰炸事件。"
+    },
+    {
+      "word": "lifestyle",
+      "phonetic": "/ˈlaɪfstaɪl/",
+      "meaning": "生活方式",
+      "example": "He has a healthy lifestyle. 他有着健康的生活方式。"
+    },
+    {
+      "word": "provider",
+      "phonetic": "/prəˈvaɪdə/",
+      "meaning": "供应者；供养人；伙食承办人",
+      "example": "The company is a major provider of software. 这家公司是主要的软件供应商。"
+    },
+    {
+      "word": "girlfriend",
+      "phonetic": "",
+      "meaning": "女朋友",
+      "example": "He is going to the movies with his girlfriend. 他要和女朋友去看电影。"
+    },
+    {
+      "word": "taxpayer",
+      "phonetic": "/ˈtækspeɪə/",
+      "meaning": "纳税人；纳税义务人",
+      "example": "Taxpayers have the right to know how their money is used. 纳税人有权知道自己的钱是如何被使用的。"
+    },
+    {
+      "word": "differently",
+      "phonetic": "/ˈdɪfrəntli/",
+      "meaning": "差异；不同；各别；各种",
+      "example": "Everyone may think differently about this issue. 每个人对这个问题的看法可能不同。"
+    },
+    {
+      "word": "manufacturing",
+      "phonetic": "/ˌmænjuˈfæktʃərɪŋ/",
+      "meaning": "制造业；制造业的",
+      "example": "The city's main industry is manufacturing. 这座城市的主要产业是制造业。"
+    },
+    {
+      "word": "German",
+      "phonetic": "/ˈdʒɜːmən/",
+      "meaning": "德国人；德语；德国的；德国人的；德国语的；同父母的",
+      "example": "She is learning German for her trip. 她为了旅行在学德语。"
+    },
+    {
+      "word": "God",
+      "phonetic": "/ɡɒd/",
+      "meaning": "上帝；神像；偶像；使神化",
+      "example": "May God bless you. 愿上帝保佑你。"
+    },
+    {
+      "word": "successfully",
+      "phonetic": "/səkˈsesfəli/",
+      "meaning": "成功；结果良好；有成就",
+      "example": "They successfully completed the project. 他们成功完成了这个项目。"
+    },
+    {
+      "word": "physically",
+      "phonetic": "/ˈfɪzɪkəli/",
+      "meaning": "按自然规律；完全地；实际上；真正地；身体上地",
+      "example": "He is physically strong. 他身体很强壮。"
+    },
+    {
+      "word": "ah",
+      "phonetic": "/ɑː/",
+      "meaning": "啊；哈",
+      "example": "Ah, I see what you mean now! 啊，我现在明白你的意思了！"
+    },
+    {
+      "word": "continued",
+      "phonetic": "/kənˈtɪnjuːd/",
+      "meaning": "继续的；延续的",
+      "example": "The meeting will be continued tomorrow. 会议明天继续举行。"
+    },
+    {
+      "word": "cooking",
+      "phonetic": "/ˈkʊkɪŋ/",
+      "meaning": "烹饪；熬炼；热炼；蒸煮",
+      "example": "I enjoy cooking for my family. 我喜欢给家人做饭。"
+    },
+    {
+      "word": "killing",
+      "phonetic": "/ˈkɪlɪŋ/",
+      "meaning": "谋杀；杀戮；杀害的；疲惫的；迷人的",
+      "example": "The movie has a lot of killing scenes. 这部电影有很多杀戮场景。"
+    },
+    {
+      "word": "quarterback",
+      "phonetic": "/ˈkwɔːtəbæk/",
+      "meaning": "四分卫；担任四分卫",
+      "example": "He is the quarterback of the football team. 他是橄榄球队的四分卫。"
+    },
+    {
+      "word": "african-american",
+      "phonetic": "/ˈæfrɪkən əˈmerɪkən/",
+      "meaning": "非裔美国人；美国黑人",
+      "example": "Many African-American artists are very talented. 很多非裔美国艺术家都很有才华。"
+    },
+    {
+      "word": "surprisingly",
+      "phonetic": "",
+      "meaning": "使人惊奇；出人意外；惊人；令人惊讶",
+      "example": "Surprisingly, he passed the exam easily. 令人惊讶的是，他轻松通过了考试。"
+    },
+    {
+      "word": "boyfriend",
+      "phonetic": "/ˈbɔɪfrend/",
+      "meaning": "男朋友",
+      "example": "Her boyfriend gave her a bunch of flowers. 她男朋友送了她一束花。"
+    },
+    {
+      "word": "related",
+      "phonetic": "/rɪˈleɪtɪd/",
+      "meaning": "讲述的；叙述的；有关系的；有关联的",
+      "example": "The two events are closely related. 这两件事密切相关。"
+    },
+    {
+      "word": "lightly",
+      "phonetic": "/ˈlaɪtli/",
+      "meaning": "轻轻地；少许；不费力地",
+      "example": "She touched his shoulder lightly. 她轻轻地碰了碰他的肩膀。"
+    },
+    {
+      "word": "excited",
+      "phonetic": "/ɪkˈsaɪtɪd/",
+      "meaning": "兴奋的；已励磁的；已激发的；激昂的；激动的",
+      "example": "I'm excited about the upcoming trip. 我对即将到来的旅行感到兴奋。"
+    },
+    {
+      "word": "greatly",
+      "phonetic": "/ˈɡreɪtli/",
+      "meaning": "很；非常",
+      "example": "I greatly appreciate your help. 我非常感谢你的帮助。"
+    },
+    {
+      "word": "drinking",
+      "phonetic": "/ˈdrɪŋkɪŋ/",
+      "meaning": "喝；喝酒",
+      "example": "Drinking too much water is good for health. 多喝水对健康有益。"
+    },
+    {
+      "word": "pleased",
+      "phonetic": "/pliːzd/",
+      "meaning": "高兴的；喜欢的；满足的",
+      "example": "I'm pleased to meet you. 很高兴认识你。"
+    },
+    {
+      "word": "ethical",
+      "phonetic": "/ˈeθɪkl/",
+      "meaning": "伦理的；民族的；民族特有的",
+      "example": "It's an ethical decision. 这是一个伦理层面的决定。"
+    },
+    {
+      "word": "T-shirt",
+      "phonetic": "/ˈtiːʃɜːt/",
+      "meaning": "圆领汗衫；T恤",
+      "example": "He is wearing a blue T-shirt. 他穿着一件蓝色T恤。"
+    },
+    {
+      "word": "Islam",
+      "phonetic": "/ˈɪzlɑːm/",
+      "meaning": "伊斯兰教",
+      "example": "Islam is one of the world's major religions. 伊斯兰教是世界主要宗教之一。"
+    },
+    {
+      "word": "Roman",
+      "phonetic": "/ˈrəʊmən/",
+      "meaning": "罗马人；罗马的；罗马人的",
+      "example": "Roman architecture is very famous. 罗马建筑非常有名。"
+    },
+    {
+      "word": "Korean",
+      "phonetic": "/kəˈriən/",
+      "meaning": "朝鲜人；朝鲜语；朝鲜人的；朝鲜语的",
+      "example": "She is watching a Korean drama. 她在看一部韩剧。"
+    },
+    {
+      "word": "longtime",
+      "phonetic": "/ˈlɒŋtaɪm/",
+      "meaning": "（已持续）长时间的；为时甚久的；长久",
+      "example": "They are longtime friends. 他们是多年的老朋友。"
+    },
+    {
+      "word": "effectiveness",
+      "phonetic": "/ɪˈfektɪvnəs/",
+      "meaning": "效力；有效性；能行性",
+      "example": "We need to test the effectiveness of this new drug. 我们需要测试这种新药的药效。"
+    },
+    {
+      "word": "frankly",
+      "phonetic": "/ˈfræŋkli/",
+      "meaning": "坦白地",
+      "example": "Frankly, I don't think it's a good idea. 坦白说，我觉得这不是个好主意。"
+    },
+    {
+      "word": "hallway",
+      "phonetic": "/ˈhɔːlweɪ/",
+      "meaning": "门厅；玄关；走廊",
+      "example": "She is waiting for you in the hallway. 她在走廊里等你。"
+    },
+    {
+      "word": "unexpected",
+      "phonetic": "/ˌʌnɪkˈspektɪd/",
+      "meaning": "料想不到的；突然的；意外的",
+      "example": "We had an unexpected visitor yesterday. 昨天我们有一位不速之客。"
+    },
+    {
+      "word": "written",
+      "phonetic": "/ˈrɪtn/",
+      "meaning": "书面的；写成文字的（write的过去分词）",
+      "example": "This is a written agreement. 这是一份书面协议。"
+    },
+    {
+      "word": "and/or",
+      "phonetic": "/ˈænˈdɔː/",
+      "meaning": "及（或）",
+      "example": "You can choose A and/or B. 你可以选择A及（或）B。"
+    },
+    {
+      "word": "playoff",
+      "phonetic": "/ˈpleɪɔːf/",
+      "meaning": "双方得分相等时的最后决赛；复赛；季后赛",
+      "example": "The team reached the playoff final. 这支球队进入了季后赛决赛。"
+    },
+    {
+      "word": "uncomfortable",
+      "phonetic": "/ˌʌnˈkʌmfətəbl/",
+      "meaning": "不舒服的；不自在的；不安的",
+      "example": "This chair is very uncomfortable. 这把椅子坐起来很不舒服。"
+    },
+    {
+      "word": "dancer",
+      "phonetic": "/ˈdɑːnsə/",
+      "meaning": "舞蹈演员；跳舞者",
+      "example": "She dreams of becoming a professional dancer. 她梦想成为一名专业舞蹈演员。"
+    },
+    {
+      "word": "closed",
+      "phonetic": "/kləʊzd/",
+      "meaning": "关闭的；限于少数人的",
+      "example": "The shop is closed on Sundays. 这家店周日休息。"
+    },
+    {
+      "word": "European",
+      "phonetic": "/ˌjʊərəˈpiːən/",
+      "meaning": "欧洲人；欧洲的；欧洲人的",
+      "example": "He has traveled to many European countries. 他去过很多欧洲国家。"
+    },
+    {
+      "word": "traditionally",
+      "phonetic": "",
+      "meaning": "传统上；传说上；习惯上",
+      "example": "Traditionally, we eat dumplings on Spring Festival. 传统上，我们春节吃饺子。"
+    },
+    {
+      "word": "convinced",
+      "phonetic": "/kənˈvɪnst/",
+      "meaning": "确信的；深信的",
+      "example": "I'm convinced that he is innocent. 我确信他是无辜的。"
+    },
+    {
+      "word": "driving",
+      "phonetic": "/ˈdraɪvɪŋ/",
+      "meaning": "赶；操纵；驾驶；推进的；强劲的；精力旺盛的",
+      "example": "Driving in the rain is dangerous. 雨天开车很危险。"
+    },
+    {
+      "word": "commonly",
+      "phonetic": "/ˈkɒmənli/",
+      "meaning": "一般；普通；通常",
+      "example": "This word is commonly used in daily life. 这个词在日常生活中很常用。"
+    },
+    {
+      "word": "sidewalk",
+      "phonetic": "/ˈsaɪdwɔːk/",
+      "meaning": "人行道",
+      "example": "People are walking on the sidewalk. 人们在人行道上行走。"
+    },
+    {
+      "word": "olympics",
+      "phonetic": "/əʊˈlɪmpɪks/",
+      "meaning": "奥林匹克运动会",
+      "example": "The Olympics are a global sports event. 奥运会是全球性的体育赛事。"
+    },
+    {
+      "word": "wow",
+      "phonetic": "/waʊ/",
+      "meaning": "哇；巨大的成功；轰动一时的成功；十分有趣的事物",
+      "example": "Wow, this cake is delicious! 哇，这个蛋糕真好吃！"
+    },
+    {
+      "word": "frozen",
+      "phonetic": "/ˈfrəʊzn/",
+      "meaning": "冻结的；冰冷的；严寒的；冻伤的；冷酷的",
+      "example": "The lake is frozen in winter. 冬天湖面结冰了。"
+    },
+    {
+      "word": "rebuild",
+      "phonetic": "/riːˈbɪld/",
+      "meaning": "改建；重建；改造；重建",
+      "example": "They plan to rebuild the old bridge. 他们计划重建这座旧桥。"
+    },
+    {
+      "word": "traveler",
+      "phonetic": "/ˈtrævlə/",
+      "meaning": "旅行者；游客；旅客；旅行推销员",
+      "example": "The traveler is taking photos of the scenery. 这位旅行者正在拍风景照。"
+    },
+    {
+      "word": "pickup",
+      "phonetic": "/ˈpɪkʌp/",
+      "meaning": "收集；整理；小卡车；拾起；搭车者；偶然结识者",
+      "example": "I need a pickup to carry these boxes. 我需要一辆小卡车来运这些箱子。"
+    },
+    {
+      "word": "historically",
+      "phonetic": "/hɪˈstɒrɪkəli/",
+      "meaning": "历史上地；从历史观点上说",
+      "example": "Historically, this place was a trading center. 从历史上看，这个地方曾是贸易中心。"
+    },
+    {
+      "word": "firmly",
+      "phonetic": "/ˈfɜːmli/",
+      "meaning": "坚固；坚定；断然",
+      "example": "He firmly refused to give up. 他坚决拒绝放弃。"
+    },
+    {
+      "word": "theology",
+      "phonetic": "/θiˈɒlədʒi/",
+      "meaning": "神学",
+      "example": "He studies theology at university. 他在大学里学习神学。"
+    },
+    {
+      "word": "nonprofit",
+      "phonetic": "/nɒnˈprɒfɪt/",
+      "meaning": "非赢利的；无利可图的",
+      "example": "It's a nonprofit organization. 这是一个非营利组织。"
+    },
+    {
+      "word": "Japanese",
+      "phonetic": "/ˌdʒæpəˈniːz/",
+      "meaning": "日本人；日语；日本的；日语的",
+      "example": "Japanese food is popular around the world. 日本料理在全世界都很受欢迎。"
+    },
+    {
+      "word": "doorway",
+      "phonetic": "/ˈdɔːweɪ/",
+      "meaning": "门口；途径",
+      "example": "She stood in the doorway and smiled. 她站在门口笑了。"
+    },
+    {
+      "word": "teenage",
+      "phonetic": "/ˈtiːneɪdʒ/",
+      "meaning": "十三岁到十九岁的",
+      "example": "Teenage boys like playing video games. 十几岁的男孩喜欢玩电子游戏。"
+    },
+    {
+      "word": "huh",
+      "phonetic": "/hʌ/",
+      "meaning": "哼；哈",
+      "example": "Huh, what did you say? 哈，你说什么？"
+    },
+    {
+      "word": "full-time",
+      "phonetic": "",
+      "meaning": "全部时间的；专任的",
+      "example": "She has a full-time job in a company. 她在一家公司有一份全职工作。"
+    },
+    {
+      "word": "Arab",
+      "phonetic": "/ˈærəb/",
+      "meaning": "阿拉伯人；阿拉伯马；阿拉伯人的；阿拉伯的",
+      "example": "He made friends with an Arab student. 他和一位阿拉伯学生成了朋友。"
+    },
+    {
+      "word": "collector",
+      "phonetic": "/kəˈlektə/",
+      "meaning": "收集家；收取款项的人；集电极；捕收剂",
+      "example": "He is a stamp collector. 他是一位集邮爱好者。"
+    },
+    {
+      "word": "disappointed",
+      "phonetic": "/ˌdɪsəˈpɒɪntɪd/",
+      "meaning": "失望的",
+      "example": "She was disappointed with the exam result. 她对考试结果感到失望。"
+    },
+    {
+      "word": "Russian",
+      "phonetic": "/ˈrʌʃən/",
+      "meaning": "俄国人；俄语；俄国的；俄语的",
+      "example": "He can speak Russian fluently. 他能流利地说俄语。"
+    },
+    {
+      "word": "hidden",
+      "phonetic": "/ˈhɪdn/",
+      "meaning": "隐藏的",
+      "example": "There is a hidden treasure in the story. 故事里有一个隐藏的宝藏。"
+    },
+    {
+      "word": "hopefully",
+      "phonetic": "/ˈhəʊpfəli/",
+      "meaning": "有希望地；如果希望能实现的话",
+      "example": "Hopefully, we can finish the work tomorrow. 希望我们明天能完成这项工作。"
+    },
+    {
+      "word": "softly",
+      "phonetic": "/ˈsɒftli/",
+      "meaning": "柔和地；静静地；温柔地",
+      "example": "The music is playing softly. 音乐正在轻柔地播放。"
+    },
+    {
+      "word": "Dutch",
+      "phonetic": "/dʌtʃ/",
+      "meaning": "荷兰人；荷兰语；荷兰的",
+      "example": "Dutch cheese is very tasty. 荷兰奶酪非常美味。"
+    },
+    {
+      "word": "Greek",
+      "phonetic": "/ɡriːk/",
+      "meaning": "希腊人；希腊语；希腊的；希腊人的",
+      "example": "Greek mythology is very interesting. 希腊神话非常有趣。"
+    },
+    {
+      "word": "officially",
+      "phonetic": "/əˈfɪʃəli/",
+      "meaning": "作为公务员；职务上；官方地",
+      "example": "The news has not been officially confirmed. 这个消息还没有得到官方证实。"
+    },
+    {
+      "word": "tightly",
+      "phonetic": "/ˈtaɪtli/",
+      "meaning": "紧紧地；坚固地",
+      "example": "She held his hand tightly. 她紧紧地握着他的手。"
+    },
+    {
+      "word": "associated",
+      "phonetic": "",
+      "meaning": "联合的；关联的；结合的",
+      "example": "Smoking is associated with many diseases. 吸烟与多种疾病有关。"
+    },
+    {
+      "word": "thoroughly",
+      "phonetic": "/ˈθʌrəli/",
+      "meaning": "彻底地；绝对地；透彻地；详尽地；周到地；完全地；完善地；全面地",
+      "example": "You should clean the room thoroughly. 你应该彻底打扫房间。"
+    },
+    {
+      "word": "courtroom",
+      "phonetic": "/ˈkɔːtruːm/",
+      "meaning": "法庭；审判室",
+      "example": "The trial was held in the courtroom. 审判在法庭上进行。"
+    },
+    {
+      "word": "combined",
+      "phonetic": "/kəmˈbaɪnd/",
+      "meaning": "结合的；组合的",
+      "example": "We need combined efforts to solve the problem. 我们需要共同努力来解决这个问题。"
+    },
+    {
+      "word": "instantly",
+      "phonetic": "/ˈɪnstəntli/",
+      "meaning": "立即地；即刻地",
+      "example": "He responded instantly to the question. 他立即回答了这个问题。"
+    },
+    {
+      "word": "mixed",
+      "phonetic": "/mɪkst/",
+      "meaning": "混合的；形形色色的；弄糊涂的",
+      "example": "There is a mixed crowd in the park. 公园里有各种各样的人。"
+    },
+    {
+      "word": "voting",
+      "phonetic": "/ˈvəʊtɪŋ/",
+      "meaning": "投票；选举；投票的；选举的",
+      "example": "Voting is an important right for citizens. 投票是公民的一项重要权利。"
+    },
+    {
+      "word": "Cuban",
+      "phonetic": "/ˈkjuːbən/",
+      "meaning": "古巴的；古巴人的；古巴人",
+      "example": "He is a Cuban musician. 他是一位古巴音乐家。"
+    },
+    {
+      "word": "reliability",
+      "phonetic": "/rɪˌlaɪəˈbɪləti/",
+      "meaning": "信度；可靠性",
+      "example": "The reliability of this machine is high. 这台机器的可靠性很高。"
+    },
+    {
+      "word": "teammate",
+      "phonetic": "/ˈtiːmmeɪt/",
+      "meaning": "队友",
+      "example": "My teammate helped me a lot. 我的队友帮了我很多。"
+    },
+    {
+      "word": "self-esteem",
+      "phonetic": "/ˈselfɪsˈtiːm/",
+      "meaning": "自尊；自负；自大",
+      "example": "Praising children helps build their self-esteem. 表扬孩子有助于建立他们的自尊。"
+    },
+    {
+      "word": "safely",
+      "phonetic": "/ˈseɪfli/",
+      "meaning": "安全地；确实地",
+      "example": "The children arrived home safely. 孩子们安全到家了。"
+    },
+    {
+      "word": "workplace",
+      "phonetic": "",
+      "meaning": "工作场所；工厂；车间",
+      "example": "We should keep the workplace clean. 我们应该保持工作场所干净。"
+    },
+    {
+      "word": "touchdown",
+      "phonetic": "/ˈtʌtʃdaʊn/",
+      "meaning": "触地；触地得分；着地",
+      "example": "The team scored a touchdown in the final minute. 球队在最后一分钟触地得分。"
+    },
+    {
+      "word": "Christianity",
+      "phonetic": "/ˌkrɪstʃiˈænəti/",
+      "meaning": "基督教；基督教精神",
+      "example": "Christianity has a long history. 基督教有着悠久的历史。"
+    },
+    {
+      "word": "rolling",
+      "phonetic": "/ˈrəʊlɪŋ/",
+      "meaning": "旋转的；波动的；起伏的；旋转；轰响；动摇",
+      "example": "The rolling hills are very beautiful. 连绵起伏的山丘非常美丽。"
+    },
+    {
+      "word": "fortunately",
+      "phonetic": "/ˈfɔːtʃənətli/",
+      "meaning": "幸运地；幸亏",
+      "example": "Fortunately, no one was hurt in the accident. 幸运的是，事故中没有人受伤。"
+    },
+    {
+      "word": "commissioner",
+      "phonetic": "/kəˈmɪʃənə/",
+      "meaning": "委员；理事；行政长官；地方地官",
+      "example": "The commissioner will attend the meeting. 专员将出席会议。"
+    },
+    {
+      "word": "instructional",
+      "phonetic": "/ɪnˈstrʌkʃənəl/",
+      "meaning": "教学的；教育的",
+      "example": "This is an instructional video. 这是一部教学视频。"
+    },
+    {
+      "word": "short-term",
+      "phonetic": "",
+      "meaning": "短期的",
+      "example": "We need a short-term plan. 我们需要一个短期计划。"
+    },
+    {
+      "word": "passing",
+      "phonetic": "/ˈpɑːsɪŋ/",
+      "meaning": "通过；逝去；死；流逝；经过的；流逝的；目前的；短暂的；及格的；仓促的",
+      "example": "With the passing of time, things change. 随着时间的流逝，一切都在变化。"
+    },
+    {
+      "word": "known",
+      "phonetic": "/nəʊn/",
+      "meaning": "已知的；有名的",
+      "example": "He is a well-known writer. 他是一位著名的作家。"
+    },
+    {
+      "word": "correctly",
+      "phonetic": "/kəˈrektli/",
+      "meaning": "对；正确；恰当；符合一般性准则；符合行为准则；端正；符合",
+      "example": "Please answer the question correctly. 请正确回答这个问题。"
+    },
+    {
+      "word": "mentally",
+      "phonetic": "/ˈmentəli/",
+      "meaning": "心理上；精神上；智力上",
+      "example": "It's important to keep mentally healthy. 保持心理健康很重要。"
+    },
+    {
+      "word": "reportedly",
+      "phonetic": "/rɪˈpɔːtɪdli/",
+      "meaning": "根据传说；根据传闻；据报道",
+      "example": "The actor has reportedly retired. 据报道，这位演员已经退休了。"
+    },
+    {
+      "word": "surrounding",
+      "phonetic": "/səˈraʊndɪŋ/",
+      "meaning": "环境；周围的",
+      "example": "We should protect the surrounding environment. 我们应该保护周围的环境。"
+    },
+    {
+      "word": "desperately",
+      "phonetic": "/ˈdespərətli/",
+      "meaning": "拼命地；绝望地；极度地",
+      "example": "She desperately needed help. 她急需帮助。"
+    },
+    {
+      "word": "someday",
+      "phonetic": "/ˈsʌmdeɪ/",
+      "meaning": "有一天",
+      "example": "Someday I will visit Paris. 有一天我会去巴黎。"
+    },
+    {
+      "word": "thanksgiving",
+      "phonetic": "/ˈθæŋksɡɪvɪŋ/",
+      "meaning": "感谢",
+      "example": "Thanksgiving is a traditional American festival. 感恩节是美国的传统节日。"
+    },
+    {
+      "word": "uh",
+      "phonetic": "/ʌn, ən/",
+      "meaning": "嗯啊",
+      "example": "Uh, let me think. 嗯啊，让我想想。"
+    },
+    {
+      "word": "exclusively",
+      "phonetic": "/ɪkˈskluːsɪvli/",
+      "meaning": "排他地；仅仅；专门；只；仅；唯一地；专有地",
+      "example": "This shop sells exclusively handmade products. 这家店专门卖手工制品。"
+    },
+    {
+      "word": "marketplace",
+      "phonetic": "/ˈmɑːkɪtpleɪs/",
+      "meaning": "市场",
+      "example": "There are many stalls in the marketplace. 市场里有很多摊位。"
+    },
+    {
+      "word": "breathing",
+      "phonetic": "/ˈbriːðɪŋ/",
+      "meaning": "呼吸；瞬间；微风；呼吸的；逼真的",
+      "example": "Deep breathing can help you relax. 深呼吸可以帮助你放松。"
+    },
+    {
+      "word": "Persian",
+      "phonetic": "/ˈpɜːʃən/",
+      "meaning": "波斯人；波斯语",
+      "example": "She is learning Persian. 她在学习波斯语。"
+    },
+    {
+      "word": "strictly",
+      "phonetic": "/ˈstrɪktli/",
+      "meaning": "严格地；确实地",
+      "example": "You must strictly follow the rules. 你必须严格遵守规则。"
+    },
+    {
+      "word": "added",
+      "phonetic": "/ˈædɪd/",
+      "meaning": "额外的；更多的",
+      "example": "There is an added bonus for this project. 这个项目有额外的奖金。"
+    },
+    {
+      "word": "builder",
+      "phonetic": "/ˈbɪldə/",
+      "meaning": "建立者",
+      "example": "The builder is constructing a new house. 建筑工人正在建造一座新房子。"
+    },
+    {
+      "word": "two-thirds",
+      "phonetic": "/ˌtuːˈθɜːdz/",
+      "meaning": "三分之二",
+      "example": "Two-thirds of the students passed the exam. 三分之二的学生通过了考试。"
+    },
+    {
+      "word": "legally",
+      "phonetic": "/ˈliːɡəli/",
+      "meaning": "法律上；合法地；法定地",
+      "example": "This contract is legally binding. 这份合同具有法律约束力。"
+    },
+    {
+      "word": "socially",
+      "phonetic": "/ˈsəʊʃəli/",
+      "meaning": "在社会上；在社交上；以社会生活方式",
+      "example": "He is socially active. 他在社交方面很活跃。"
+    }
+  ]
+}
