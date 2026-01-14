@@ -80,6 +80,18 @@
       "languageVersion": "3.8"
     },
     {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/http-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/http_parser-4.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "leak_tracker",
       "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/leak_tracker-11.0.2",
       "packageUri": "lib/",
@@ -250,6 +262,12 @@
     {
       "name": "test_api",
       "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/test_api-0.7.7",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/typed_data-1.4.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
